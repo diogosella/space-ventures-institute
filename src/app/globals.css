@@ -1,0 +1,14 @@
+@import "tailwindcss";
+@import "./svi.css";
+
+a[data-nav],
+button[data-nav],
+button[data-toast],
+button[data-apply],
+button[data-action] {
+  cursor: pointer;
+}
+
+.footer-col a {
+  cursor: pointer;
+}

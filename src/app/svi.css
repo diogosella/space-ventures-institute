@@ -1,0 +1,2217 @@
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/23398db6-b839-43e8-9959-b6275d809627.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/85321ac1-3b6a-4aeb-86f8-1dbad8cedf29.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/98cf18cf-3832-44f0-8568-58449ce17e23.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/8959e316-61f8-466d-8bef-666f4bcd5e8b.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/d5f576af-5a7c-4722-842e-1e26d2ce6878.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/b6d5b6b9-e2ce-4252-8312-deb4300feaf2.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/709fa3db-0d58-43c4-a928-b5e203d80b49.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/3bf2fbea-192d-4637-b4a2-987390a59d06.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/773c8254-a9e8-48e8-9d95-5b492a929e40.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/dae55b57-9dc5-409f-8162-d4e0e00910c1.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/dee35b29-9546-45f8-8ab8-b2091a8ce557.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/7b2aa568-1e12-46cc-9a33-e4f81d84a9e0.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/448e7981-eb32-4bcf-967a-1d7115d019e5.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/0748adf4-3266-4be4-9c02-4653c932af14.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/4c5eef7d-817c-44e5-a63d-adceb6848633.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/771206c6-108c-490d-9243-33a226bc9f78.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/6f47bef9-14e9-442f-b29b-9e281ef35460.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/c12f4633-8971-46e7-bb0a-4d34617e29bf.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/076ad815-fdcf-42ce-8013-0fddb0d21a31.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/40ebcdf6-bfd0-4ad8-80da-b04bcdbfcf17.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/9ce68e7a-edf6-477d-814e-e49c7395ea83.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/24700a45-0cf9-4754-a11a-5075d1dd4b81.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/e2f506d2-dcd3-4427-af68-7ab781e9d0db.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/a263960c-5c96-4a8d-9dd3-346901ec2bda.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/13e34405-096b-43b1-955c-a3ae13b460f6.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/e26071d5-f10c-4a1b-8eea-7d8e0d87d512.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url("/fonts/539c769c-8cd4-4e2d-978d-0805d979b62c.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/5572cb33-f8d0-4e24-9c9e-695efd9049ad.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/bcce3877-8caf-45bc-a30d-ada46c5314b0.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Barlow Condensed';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url("/fonts/352438e5-bf95-442b-af7b-f9e527a1d34d.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/87309aa0-1476-4dce-b414-8bb2875b8680.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/9d7bd4eb-4d22-4046-aac7-7d49118514ed.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/87309aa0-1476-4dce-b414-8bb2875b8680.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/9d7bd4eb-4d22-4046-aac7-7d49118514ed.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/87309aa0-1476-4dce-b414-8bb2875b8680.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'DM Sans';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/9d7bd4eb-4d22-4046-aac7-7d49118514ed.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/1895d133-e6cb-4ffe-9ccb-1883e622e4c1.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/9009970e-0be3-4ee3-8a3d-3d8e380a9f73.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/49557ef3-f97d-43bf-8e11-39d4f6b9c5a3.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/e89e9bf7-bf67-4c2a-8c26-f03fa901fa27.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/59538789-fe96-4fdb-a5e8-04fe284b923f.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/2b3a5e81-f1aa-40a9-93c4-3f0f81f2087f.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url("/fonts/d0d807bd-6136-4152-a704-b4034ea93d59.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/1895d133-e6cb-4ffe-9ccb-1883e622e4c1.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/9009970e-0be3-4ee3-8a3d-3d8e380a9f73.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/49557ef3-f97d-43bf-8e11-39d4f6b9c5a3.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/e89e9bf7-bf67-4c2a-8c26-f03fa901fa27.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/59538789-fe96-4fdb-a5e8-04fe284b923f.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/2b3a5e81-f1aa-40a9-93c4-3f0f81f2087f.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/d0d807bd-6136-4152-a704-b4034ea93d59.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/1895d133-e6cb-4ffe-9ccb-1883e622e4c1.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/9009970e-0be3-4ee3-8a3d-3d8e380a9f73.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/49557ef3-f97d-43bf-8e11-39d4f6b9c5a3.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/e89e9bf7-bf67-4c2a-8c26-f03fa901fa27.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/59538789-fe96-4fdb-a5e8-04fe284b923f.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/2b3a5e81-f1aa-40a9-93c4-3f0f81f2087f.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/d0d807bd-6136-4152-a704-b4034ea93d59.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/1895d133-e6cb-4ffe-9ccb-1883e622e4c1.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/9009970e-0be3-4ee3-8a3d-3d8e380a9f73.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/49557ef3-f97d-43bf-8e11-39d4f6b9c5a3.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/e89e9bf7-bf67-4c2a-8c26-f03fa901fa27.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/59538789-fe96-4fdb-a5e8-04fe284b923f.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/2b3a5e81-f1aa-40a9-93c4-3f0f81f2087f.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url("/fonts/d0d807bd-6136-4152-a704-b4034ea93d59.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/1895d133-e6cb-4ffe-9ccb-1883e622e4c1.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/9009970e-0be3-4ee3-8a3d-3d8e380a9f73.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/49557ef3-f97d-43bf-8e11-39d4f6b9c5a3.woff2") format('woff2');
+  unicode-range: U+1F00-1FFF;
+}
+/* greek */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/e89e9bf7-bf67-4c2a-8c26-f03fa901fa27.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/59538789-fe96-4fdb-a5e8-04fe284b923f.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/2b3a5e81-f1aa-40a9-93c4-3f0f81f2087f.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Inter';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/d0d807bd-6136-4152-a704-b4034ea93d59.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/f9b8a248-eccc-4ead-857f-79ba2c06a3ac.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/37272afb-b8de-4f2a-af4a-e951d44124a5.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/0582ec8c-6f90-4741-8b96-c78fb87f65d9.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/7cf5c20d-af71-4578-912f-e2758a056d5c.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/2e66949d-dad8-48f8-b6c6-70fdc4328370.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/69d5b752-fbce-4717-b7c4-41f5f67953b5.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/f9b8a248-eccc-4ead-857f-79ba2c06a3ac.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/37272afb-b8de-4f2a-af4a-e951d44124a5.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/0582ec8c-6f90-4741-8b96-c78fb87f65d9.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/7cf5c20d-af71-4578-912f-e2758a056d5c.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/2e66949d-dad8-48f8-b6c6-70fdc4328370.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'JetBrains Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/69d5b752-fbce-4717-b7c4-41f5f67953b5.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/70745957-d68e-4bb1-ad8e-a537d46a0e0b.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/56dc388b-c6ac-46f8-bdbd-e9d00d64a355.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/ec89db6b-cfd6-4791-b1d8-73a0c42c9067.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/31c7c781-b82e-4c65-8030-427159b91a34.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/abcbbde1-8035-4999-ba5d-88abaeb7743e.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url("/fonts/fed44897-670c-4811-817a-bc82baec982a.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* cyrillic-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/70745957-d68e-4bb1-ad8e-a537d46a0e0b.woff2") format('woff2');
+  unicode-range: U+0460-052F, U+1C80-1C8A, U+20B4, U+2DE0-2DFF, U+A640-A69F, U+FE2E-FE2F;
+}
+/* cyrillic */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/56dc388b-c6ac-46f8-bdbd-e9d00d64a355.woff2") format('woff2');
+  unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1, U+2116;
+}
+/* greek */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/ec89db6b-cfd6-4791-b1d8-73a0c42c9067.woff2") format('woff2');
+  unicode-range: U+0370-0377, U+037A-037F, U+0384-038A, U+038C, U+038E-03A1, U+03A3-03FF;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/31c7c781-b82e-4c65-8030-427159b91a34.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/abcbbde1-8035-4999-ba5d-88abaeb7743e.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Roboto Mono';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url("/fonts/fed44897-670c-4811-817a-bc82baec982a.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+/* vietnamese */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/5f05c0b9-2bc8-423f-894c-317625e64553.woff2") format('woff2');
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+0300-0301, U+0303-0304, U+0308-0309, U+0323, U+0329, U+1EA0-1EF9, U+20AB;
+}
+/* latin-ext */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/14925186-e2d8-45b5-94db-a6d5f0a1e650.woff2") format('woff2');
+  unicode-range: U+0100-02BA, U+02BD-02C5, U+02C7-02CC, U+02CE-02D7, U+02DD-02FF, U+0304, U+0308, U+0329, U+1D00-1DBF, U+1E00-1E9F, U+1EF2-1EFF, U+2020, U+20A0-20AB, U+20AD-20C0, U+2113, U+2C60-2C7F, U+A720-A7FF;
+}
+/* latin */
+@font-face {
+  font-family: 'Space Grotesk';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url("/fonts/4b99e854-8bb8-48b4-9e63-83d2b12048ac.woff2") format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+}
+
+
+/* ===== next style block ===== */
+
+
+:root {
+  --bg: #0F0F10;
+  --bg2: #0F0F10;
+  --bg3: #1C202A;
+  --bg4: #0F0F10;
+  --blue: #3C5E78;
+  --blue2: #93c5fd;
+  --blue-dim: rgba(96,165,250,0.12);
+  --blue-border: #1f2937;
+  --white: #e5e7eb;
+  --gray: #6b7280;
+  --gray2: #9ca3af;
+  --border: #1f2937;
+  --border2: #1f2937;
+  --fh: 'Inter', 'Space Grotesk', sans-serif;
+  --fb: 'Inter', sans-serif;
+  --fm: 'JetBrains Mono', monospace;
+}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth}
+body{background:var(--bg);color:var(--white);font-family:var(--fb);font-size:15px;line-height:1.65;overflow-x:hidden}
+
+/* ── NAV ── */
+nav{position:fixed;top:0;left:0;right:0;z-index:100;height:60px;display:flex;align-items:center;padding:0;background:#0F0F10;border-bottom:1px solid #1f2937;backdrop-filter:blur(10px)}
+.nav-inner{display:flex;align-items:center;gap:1.25rem;width:100%;max-width:1280px;margin:0 auto;padding:0 2.5rem;height:60px}
+.nav-logo{display:flex;align-items:center;gap:10px;cursor:pointer;text-decoration:none;flex-shrink:0}
+.nav-logo-text{font-family:'Inter',sans-serif;font-size:0.9rem;font-weight:600;letter-spacing:0.03em;color:#e5e7eb;text-transform:uppercase}
+.nav-links{display:flex;align-items:center;gap:0;list-style:none;margin-left:0.75rem}
+.nav-links li a{display:block;padding:0 1.1rem;height:60px;line-height:60px;font-family:'Inter',sans-serif;font-size:0.82rem;font-weight:400;color:#9ca3af;text-decoration:none;cursor:pointer;transition:color 0.2s;letter-spacing:0.01em;white-space:nowrap}
+.nav-links li a:hover{color:var(--white)}
+.nav-links li a.active{color:var(--white);border-bottom:2px solid #2962FF}
+.nav-spacer{flex:1;min-width:0}
+.nav-apply{font-family:'Inter',sans-serif;font-size:0.75rem;font-weight:600;background:#2962FF;color:#ffffff;border:none;padding:0.55rem 1.3rem;cursor:pointer;letter-spacing:0.04em;text-transform:uppercase;transition:background 0.2s;white-space:nowrap;border-radius:6px}
+.nav-apply:hover{background:#3e576f}
+.nav-login{font-family:var(--fb);font-size:0.8rem;color:var(--gray2);background:transparent;border:1px solid var(--border2);padding:0.5rem 1.2rem;cursor:pointer;transition:all 0.2s}
+.nav-login:hover{border-color:var(--blue);color:var(--white)}
+
+/* ── PAGES ── */
+.page{display:block;padding-top:60px}
+.page.active{display:block}
+
+/* ── HAND LOGO SVG ── */
+.hand-icon{width:32px;height:38px;flex-shrink:0}
+
+/* ── SHARED ── */
+.container{max-width:1280px;margin:0 auto;padding:0 2.5rem}
+.section{padding:6rem 0}
+.section-sm{padding:3rem 0}
+.blue-line{display:block;width:38px;height:2px;background:#678EAC;margin-bottom:1.1rem}
+.blue-line-center{display:block;width:38px;height:2px;background:#678EAC;margin:0 auto 1.1rem}
+.label-tag{font-family:'Inter',sans-serif;font-size:0.68rem;font-weight:500;letter-spacing:0.12em;text-transform:uppercase;color:#678EAC;margin-bottom:0.7rem}
+.label-tag-gray{font-family:'Inter',sans-serif;font-size:0.68rem;font-weight:500;letter-spacing:0.12em;text-transform:uppercase;color:#6b7280}
+.h1{font-family:'Inter','Space Grotesk',sans-serif;font-weight:700;font-size:clamp(2.8rem,5.5vw,4.8rem);font-weight:900;line-height:1.03;letter-spacing:-0.01em;text-transform:uppercase}
+.h2{font-family:'Inter',sans-serif;font-size:clamp(1.5rem,3vw,1.75rem);font-weight:600;line-height:1.2;letter-spacing:-0.01em;color:#D4DCE9}
+.h3{font-family:'Inter',sans-serif;font-size:1rem;font-weight:600;letter-spacing:0.01em;color:#e5e7eb}
+.h4{font-family:'Inter',sans-serif;font-size:0.875rem;font-weight:600;letter-spacing:0.02em;text-transform:uppercase;color:#F1F1F1}
+.text-blue{color:var(--blue2)}
+.text-gray{color:var(--gray)}
+.text-gray2{color:var(--gray2)}
+.body-sm{font-size:0.82rem;line-height:1.65;color:#C4C6D0}
+.card{background:transparent;border:1px solid rgba(148,163,184,0.35);border-radius:10px;padding:1.5rem}
+.card-blue-left{border-left:2px solid var(--blue)}
+.grid-2{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}
+.grid-3{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem}
+.grid-4{display:grid;grid-template-columns:repeat(4,1fr);gap:1rem}
+.grid-6{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border)}
+.pill{display:inline-flex;align-items:center;gap:5px;font-family:'Inter',sans-serif;font-size:0.62rem;font-weight:500;letter-spacing:0.08em;text-transform:uppercase;background:rgba(255,255,255,0.04);border:1px solid #678EACCC;border-radius:6px;padding:5px 12px;color:#E2E2E6}
+.pill.active{background:rgba(96,165,250,0.12);border-color:#60a5fa;color:#93c5fd}
+.pill-dot{width:5px;height:5px;border-radius:50%;background:currentColor;flex-shrink:0}
+.btn{font-family:var(--fb);font-size:0.82rem;font-weight:600;letter-spacing:0.05em;text-transform:uppercase;padding:0.75rem 2rem;cursor:pointer;border:none;transition:all 0.2s;display:inline-flex;align-items:center;gap:8px}
+.btn-blue{background:#93c5fd;color:#1C202A}
+.btn-blue:hover{background:#bfdbfe}
+.btn-outline{background:transparent;color:var(--white);border:1px solid var(--white)}
+.btn-outline:hover{background:rgba(255,255,255,0.08)}
+.btn-outline-blue{background:transparent;color:var(--blue2);border:1px solid var(--blue-border)}
+.btn-outline-blue:hover{background:var(--blue-dim)}
+.divider{height:1px;background:var(--border);margin:0}
+.space-img{background:radial-gradient(ellipse at 60% 40%, #0a3060 0%, #030d1a 60%, #000508 100%);border:1px solid var(--border)}
+.earth-img{background:radial-gradient(ellipse at 50% 50%, #1a4a8a 0%, #0a2550 40%, #030d1a 100%);position:relative;overflow:hidden}
+.earth-img::after{content:'';position:absolute;inset:0;background:radial-gradient(circle at 45% 45%, rgba(30,80,160,0.6) 0%, rgba(10,30,80,0.3) 45%, transparent 70%),linear-gradient(135deg, rgba(255,255,255,0.03) 0%, transparent 100%)}
+.num-big{font-family:var(--fh);font-size:2.8rem;font-weight:900;color:var(--white);line-height:1}
+.num-label{font-family:var(--fm);font-size:0.62rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--gray);margin-top:3px}
+.icon-box{width:36px;height:36px;background:var(--blue-dim);border:1px solid var(--blue-border);display:flex;align-items:center;justify-content:center;flex-shrink:0;font-size:14px}
+.num-tag{font-family:'Inter',sans-serif;font-size:1.1rem;font-weight:600;color:#678EAC;margin-bottom:0.5rem}
+.more-link{font-family:var(--fm);font-size:0.65rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--blue2);cursor:pointer;display:inline-flex;align-items:center;gap:5px;margin-top:0.7rem}
+.more-link:hover{text-decoration:underline}
+.status-badge{font-family:var(--fm);font-size:0.6rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--blue2);border:1px solid var(--blue-border);padding:2px 8px;display:inline-block}
+
+/* ── FOOTER ── */
+footer{background:#0F0F10;border-top:1px solid #1f2937;padding:4rem 0 1.5rem}
+.footer-grid{display:grid;grid-template-columns:1.8fr 1fr 1.3fr 1fr;gap:2rem;align-items:start}
+.footer-brand p{font-size:0.8rem;color:var(--gray);margin-top:0.5rem;line-height:1.6;max-width:200px}
+footer .footer-brand img{width:62px;height:62px;object-fit:contain}
+.footer-col h5{font-family:'Inter',sans-serif;font-size:0.72rem;font-weight:600;text-transform:uppercase;letter-spacing:0.1em;color:#6b7280;margin-bottom:1rem}
+.footer-col ul{list-style:none}
+.footer-col li{margin-bottom:0.55rem}
+.footer-col a{font-family:'Inter',sans-serif;font-size:0.82rem;font-weight:400;color:#9ca3af;text-decoration:none;cursor:pointer;transition:color 0.2s}
+.footer-col a:hover{color:var(--white)}
+.footer-bottom{display:flex;justify-content:center;align-items:center;padding-top:2rem;margin-top:2rem;border-top:1px solid var(--border)}
+.footer-bottom-text{font-family:'Inter',sans-serif;font-size:0.68rem;font-weight:400;letter-spacing:0.05em;text-transform:uppercase;color:#6b7280}
+.footer-social{display:flex;gap:1.5rem}
+.footer-social a{font-family:var(--fm);font-size:0.62rem;letter-spacing:0.1em;text-transform:uppercase;color:var(--gray);text-decoration:none;cursor:pointer;transition:color 0.2s}
+.footer-social a:hover{color:var(--white)}
+.footer-brand-name{font-family:var(--fh);font-size:1rem;font-weight:800;text-transform:uppercase;letter-spacing:0.05em}
+
+/* ── HOME ── */
+.hero-home{min-height:calc(100vh - 60px);display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:center;padding:3rem 0;position:relative}
+.hero-home::before{content:'';position:absolute;inset:0;background:none;pointer-events:none}
+.hero-home-left{position:relative;z-index:1;align-self:end;padding-bottom:1.5rem}
+.hero-coord{font-family:'Inter',sans-serif;font-size:0.68rem;font-weight:500;letter-spacing:0.15em;text-transform:uppercase;color:#C4C6D0;display:flex;align-items:center;gap:10px;margin-bottom:1.5rem}
+.hero-coord::before{content:'';color:var(--blue2);letter-spacing:-2px}
+.hero-pills{display:flex;flex-wrap:wrap;gap:0.5rem;margin:1.5rem 0 2rem}
+.hero-right{position:relative;z-index:1;height:420px;border:1px solid var(--border)}
+.hero-right-inner{width:100%;height:100%;earth-img:var(--bg3);position:relative}
+.hero-status-card{position:absolute;bottom:1.5rem;right:1.5rem;background:rgba(6,12,20,0.9);border:1px solid var(--border2);padding:0.9rem 1.2rem;min-width:200px}
+.hero-status-label{font-family:var(--fm);font-size:0.6rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--gray);margin-bottom:4px}
+.hero-status-val{font-family:var(--fm);font-size:0.75rem;color:var(--blue2);font-weight:500}
+.dot-active{display:inline-block;width:7px;height:7px;border-radius:50%;background:#22c55e;margin-right:5px}.dot-pulse{display:inline-block;width:7px;height:7px;border-radius:50%;background:#ffffff;margin-right:5px;animation:dotPulse 1.6s ease-in-out infinite}@keyframes dotPulse{0%,100%{opacity:1}50%{opacity:0.1}}
+@keyframes earthRotate{0%{transform:scale(1.05) rotate(0deg)}50%{transform:scale(1.08) rotate(2deg)}100%{transform:scale(1.05) rotate(0deg)}}
+@keyframes earthFloat{0%,100%{transform:scale(1.05) translateY(0px) rotate(-1deg)}50%{transform:scale(1.1) translateY(-8px) rotate(1deg)}}
+
+.who-section{padding:6rem 0;background:var(--bg4);border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.who-grid{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:start}
+.whohome-grid{grid-template-columns:1fr 1fr}
+
+.ecosystem-card{background:transparent;border:1px solid var(--border);padding:1.5rem}
+.eco-title{font-family:var(--fm);font-size:0.65rem;letter-spacing:0.15em;text-transform:uppercase;color:var(--gray);margin-bottom:1.2rem}
+.eco-item{display:flex;align-items:center;justify-content:space-between;padding:0.6rem 0;border-bottom:1px solid var(--border)}
+.eco-item:last-child{border-bottom:none}
+.eco-name{font-family:var(--fh);font-size:0.95rem;font-weight:700}
+.eco-sub{font-family:var(--fm);font-size:0.6rem;color:var(--gray);text-transform:uppercase;letter-spacing:0.1em}
+.eco-tag{font-family:var(--fm);font-size:0.58rem;color:var(--gray);border:1px solid var(--border);padding:2px 7px;text-transform:uppercase;letter-spacing:0.08em}
+
+.why-grid{display:grid;grid-template-columns:1fr 1fr 1fr;gap:0;align-items:start}
+.why-left{padding-right:3rem;border-right:1px solid var(--border)}
+.why-cards{display:flex;flex-direction:column;gap:1px;background:var(--border);grid-column:span 2;margin-left:-1px}
+.why-card{background:var(--bg);padding:1.5rem 2rem;border-bottom:1px solid var(--border)}
+
+.wyg-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;background:transparent}
+.wyg-card{background:rgba(15,17,22,0.92);border:1px solid rgba(103,142,172,0.3);border-radius:10px;padding:1.5rem 2rem;backdrop-filter:blur(4px)}
+.wyg-num{font-family:'Inter',sans-serif;font-size:1.15rem;font-weight:600;letter-spacing:0;color:#678EAC;margin-bottom:0.8rem}
+
+.doers-grid{display:grid;grid-template-columns:1fr 1fr;gap:20px;background:transparent}
+.doers-card{background:transparent;border:1px solid rgba(148,163,184,0.35);border-radius:10px;padding:2rem}
+.doers-list{list-style:none;margin-top:1rem}
+.doers-list li{font-size:0.82rem;color:var(--gray2);padding:0.35rem 0;border-bottom:1px solid var(--border);display:flex;align-items:center;gap:8px}
+.doers-list li::before{content:'◈';color:var(--blue2);font-size:10px;flex-shrink:0}
+.tag-pills-wrap{display:flex;flex-wrap:wrap;gap:0.4rem;margin-top:1rem}
+
+.loop-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:20px;background:transparent}
+.loop-card{background:transparent;border:1px solid rgba(148,163,184,0.35);border-radius:10px;padding:1.5rem}
+.loop-num{font-family:'Roboto Mono',monospace;font-size:0.72rem;font-weight:600;letter-spacing:0.14em;color:#678EAC;margin-bottom:0.9rem}
+
+.values-grid{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
+.value-card{background:var(--bg);padding:1.5rem 2rem;display:flex;gap:1rem;align-items:flex-start}
+
+.cta-join{background:transparent;border-top:none;border-bottom:none;padding:6rem 2.5rem;display:flex;justify-content:center;align-items:center}
+
+/* ── ABOUT ── */
+.about-hero{padding:4rem 0 3rem}
+.about-hero-inner{display:grid;grid-template-columns:1fr 1fr;gap:4rem;align-items:start}
+.about-right-img{height:280px;border:1px solid var(--border);position:relative;overflow:hidden}
+.mission-cards{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--border);margin-top:3rem}
+.mission-card{background:var(--bg3);padding:1.5rem}
+.this-for-grid{display:grid;grid-template-columns:1.2fr 1fr;gap:4rem;align-items:start}
+.this-for-list{list-style:none;margin-top:1rem}
+.this-for-list li{padding:0.8rem 0;border-bottom:1px solid var(--border);display:flex;gap:1rem;align-items:flex-start}
+.this-for-num{font-family:var(--fm);font-size:0.65rem;color:var(--blue2);flex-shrink:0;padding-top:3px}
+.exec-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border)}
+.exec-card{background:var(--bg3);padding:1.5rem}
+.exec-num{font-family:var(--fh);font-size:1.8rem;font-weight:900;color:var(--blue);margin-bottom:0.3rem;opacity:0.6}
+
+/* ── PROJECTS ── */
+.proj-hero{padding:4rem 0 2.5rem}
+.proj-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border)}
+.proj-card{background:#1C202A;padding:1.5rem;cursor:pointer;transition:background 0.2s}
+.proj-card:hover{background:#232A36}
+.proj-card.large{grid-column:span 2;background:#1C202A}
+.proj-card.large:hover{background:#232A36}
+.proj-icon{width:32px;height:32px;margin-bottom:0.8rem;font-size:18px}
+.proj-card h3{font-family:var(--fh);font-size:1.05rem;font-weight:800;text-transform:uppercase;letter-spacing:0.02em;margin:0.5rem 0}
+.proj-card p{font-size:0.8rem;color:#D4DCE9;line-height:1.65}
+.proj-card .more-link{margin-top:1rem}
+.proj-fullwidth{height:380px;margin:0;position:relative;border-top:1px solid var(--border);border-bottom:1px solid var(--border)}
+.proj-cta{background:var(--bg2);border:1px solid var(--border);margin:3rem 0;padding:2.5rem;display:flex;justify-content:space-between;align-items:center}
+.proj-cta-left p{font-size:0.82rem;color:var(--gray);margin-top:0.3rem;font-family:var(--fm);font-size:0.65rem;letter-spacing:0.1em;text-transform:uppercase}
+.proj-cta-btns{display:flex;gap:1rem}
+
+/* ── JOURNEY ── */
+.journey-hero{padding:4rem 0 3rem}
+.journey-hero-inner{display:grid;grid-template-columns:1fr 1fr;gap:4rem}
+.meet-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+.meet-fn-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border);margin-top:1rem}
+.meet-fn-card{background:var(--bg3);padding:1.2rem;display:flex;align-items:center;gap:10px}
+.compass-grid{display:grid;grid-template-columns:repeat(4,1fr);gap:1px;background:var(--border);margin-top:2rem}
+.compass-card{background:var(--bg3);padding:1.5rem;border-top:2px solid var(--blue)}
+.eco-cards{display:grid;grid-template-columns:repeat(3,1fr);gap:1.5rem;margin-top:2rem}
+.eco-card-item{background:var(--bg3);border:1px solid var(--border);padding:1.5rem;text-align:center}
+.eco-card-img{height:100px;margin:0.8rem 0;display:flex;align-items:center;justify-content:center;font-size:2rem;opacity:0.5}
+.milestone-list{margin-top:2rem;display:flex;flex-direction:column;gap:1px;background:var(--border)}
+.milestone-item{background:var(--bg);padding:1.3rem 2rem;display:grid;grid-template-columns:48px 1fr;gap:1.5rem;align-items:start}
+.milestone-num{font-family:var(--fm);font-size:0.65rem;color:var(--blue2);padding-top:4px}
+.in-motion-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border);margin-top:2rem}
+.in-motion-card{background:var(--bg3);padding:1.5rem}
+.in-motion-list{list-style:none;margin-top:0.8rem}
+.in-motion-list li{font-size:0.78rem;color:var(--gray2);padding:0.25rem 0;display:flex;align-items:flex-start;gap:7px}
+.in-motion-list li::before{content:'';color:var(--blue2);font-family:var(--fm);font-size:0.65rem;flex-shrink:0;margin-top:3px}
+.flow-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:1px;background:var(--border);margin-top:2rem}
+.flow-card{background:var(--bg);padding:1.5rem}
+.flow-num{font-family:var(--fm);font-size:0.65rem;color:var(--blue2);margin-bottom:0.5rem}
+
+/* ── INTERNSHIPS ── */
+.intern-breadcrumb{font-family:var(--fm);font-size:0.62rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--gray);display:flex;align-items:center;gap:6px;margin-bottom:1.5rem}
+.intern-breadcrumb span{color:var(--blue2)}
+.intern-stats{display:flex;gap:3rem;margin:2rem 0}
+.intern-stat-num{font-family:var(--fh);font-size:2.5rem;font-weight:900;color:var(--white)}
+.intern-stat-sub{font-family:var(--fm);font-size:0.6rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--gray);margin-top:2px}
+.deploy-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;background:var(--border)}
+.deploy-card{background:var(--bg3);padding:1.3rem 1.5rem;cursor:pointer;transition:background 0.2s}
+.deploy-card:hover{background:var(--bg2)}
+.deploy-role-label{font-family:var(--fm);font-size:0.6rem;letter-spacing:0.12em;text-transform:uppercase;color:var(--gray);margin-bottom:0.6rem}
+.deploy-card h4{font-family:var(--fh);font-size:0.95rem;font-weight:800;text-transform:uppercase;letter-spacing:0.02em;margin-bottom:0.4rem}
+.about-flo-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+.flo-right{display:flex;flex-direction:column;gap:1rem}
+.flo-card{background:var(--bg3);border:1px solid var(--border);border-left:2px solid var(--blue);padding:1.2rem 1.5rem}
+.flo-card h5{font-family:var(--fh);font-size:0.9rem;font-weight:700;text-transform:uppercase;letter-spacing:0.04em}
+.flo-card p{font-size:0.78rem;color:var(--gray2);margin-top:0.3rem}
+.flo-img{height:200px;background:var(--bg2);border:1px solid var(--border)}
+.flo-stats{display:flex;gap:2rem;margin-top:1.5rem}
+.flo-stat span{font-family:var(--fh);font-size:1.8rem;font-weight:900}
+.mission-full-item{display:grid;grid-template-columns:1fr 1fr;gap:0;margin-bottom:1px;background:var(--border)}
+.mission-full-img{height:340px;background:var(--bg2)}
+.mission-full-text{background:var(--bg);padding:3rem}
+.mission-full-text.right-text{order:-1}
+.bottom-line-grid{display:grid;grid-template-columns:1fr 1fr;gap:3rem;align-items:start}
+.bl-cards{display:grid;grid-template-columns:1fr 1fr;gap:1px;background:var(--border)}
+.bl-card{background:var(--bg3);padding:1.2rem}
+.ready-cta{text-align:center;padding:6rem 0;background:var(--bg)}
+
+/* Responsive */
+@media(max-width:900px){
+  .hero-home,.who-grid,.about-hero-inner,.meet-grid,.this-for-grid,.about-flo-grid,.bottom-line-grid,.journey-hero-inner,.why-grid,.mission-full-item{grid-template-columns:1fr}
+  .grid-4,.mission-cards,.compass-grid,.loop-grid,.flow-grid{grid-template-columns:1fr 1fr}
+  .grid-3,.proj-grid,.eco-cards,.exec-grid,.in-motion-grid,.deploy-grid{grid-template-columns:1fr}
+  .proj-card.large{grid-column:span 1}
+  .footer-grid{grid-template-columns:1fr 1fr}
+  .why-left{border-right:none;padding-right:0}
+  .why-cards{grid-column:auto;margin-left:0}
+  .nav-links li a{padding:0 0.6rem;font-size:0.75rem}
+  .nav-logo-text{display:none}
+  .mission-full-text.right-text{order:unset}
+  .hero-right{height:280px}
+}
+@media(max-width:600px){
+  .grid-4,.compass-grid,.loop-grid,.flow-grid,.values-grid,.doers-grid,.mission-cards,.bl-cards{grid-template-columns:1fr}
+  .container{padding:0 1.2rem}
+}
+
+/* ── Orphan prevention (no single-word last line) ── */
+p, li, blockquote, figcaption { text-wrap: pretty; }
+h1, h2, h3, h4, h5, h6, .h2 { text-wrap: balance; }
+
+/* ── Universal responsiveness for inline-styled sections ── */
+[style*="grid-template-columns:repeat(3,1fr)"] > *,
+[style*="grid-template-columns:repeat(4,1fr)"] > *,
+[style*="grid-template-columns:1fr 1fr"] > *{min-width:0;}
+@media(max-width:1024px){
+  [style*="grid-template-columns:repeat(4,1fr)"]{grid-template-columns:repeat(2,1fr) !important;}
+  [style*="white-space:nowrap"]{white-space:normal !important;}
+}
+@media(max-width:820px){
+  [style*="grid-template-columns:repeat(3,1fr)"],
+  [style*="grid-template-columns:repeat(2,1fr)"],
+  [style*="grid-template-columns:repeat(4,1fr)"],
+  [style*="grid-template-columns:1fr 1fr"],
+  [style*="grid-template-columns:1.2fr 1fr"]{grid-template-columns:1fr !important;}
+  #more-jobs{grid-template-columns:1fr !important;}
+  [style*="width:449px"]{width:100% !important;}
+  [style*="width:757px"]{width:100% !important;}
+  [style*="height:819px"]{height:auto !important;min-height:80vh;}
+  [style*="height:561px"]{height:auto !important;min-height:360px;}
+  [style*="height:811px"]{height:58vw !important;min-height:200px;}
+  [style*="font-size:64px"]{font-size:clamp(34px,8vw,56px) !important;}
+  [style*="display:flex;gap:3rem"]{flex-wrap:wrap;}
+}
+@media(max-width:768px){
+  [style*="white-space:nowrap"]{white-space:normal !important;}
+  .proj-cta{flex-wrap:wrap;gap:1.25rem;}
+  #modal-overlay{padding:1rem !important;}
+  #modal-overlay > div{padding:1.6rem !important;}
+  #projects-grid > div > div{flex:0 0 82vw;width:82vw;max-width:330px;}
+}
+@media(max-width:560px){
+  .container{padding:0 1.1rem;}
+  [style*="font-size:64px"]{font-size:clamp(30px,9vw,42px) !important;}
+  .nav-links li a{padding:0 0.45rem;font-size:0.72rem;}
+  .nav-apply{padding:0.5rem 0.85rem;font-size:0.7rem;}
+  .footer-grid{grid-template-columns:1fr;}
+  #earth-canvas{width:78vw !important;height:78vw !important;max-width:320px;max-height:320px;}
+}
+
+/* ═══ SCI-FI PREMIUM ANIMATIONS ═══ */
+
+/* Scanline overlay on hero */
+.page::before{content:'';position:fixed;top:0;left:0;right:0;bottom:0;background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(103,142,172,0.015) 2px,rgba(103,142,172,0.015) 4px);pointer-events:none;z-index:999;animation:scanlines 8s linear infinite}
+@keyframes scanlines{0%{background-position:0 0}100%{background-position:0 100px}}
+
+/* Button glow + lift */
+button,.nav-apply{transition:all 0.25s cubic-bezier(0.4,0,0.2,1) !important;position:relative;overflow:hidden}
+button::after,.nav-apply::after{content:'';position:absolute;inset:0;background:linear-gradient(135deg,rgba(255,255,255,0.08),transparent);opacity:0;transition:opacity 0.3s}
+button:hover::after,.nav-apply:hover::after{opacity:1}
+button:hover,.nav-apply:hover{transform:translateY(-2px);box-shadow:0 8px 24px rgba(103,142,172,0.3) !important}
+button:active,.nav-apply:active{transform:translateY(0px) scale(0.98)}
+
+/* Nav link hover underline slide */
+.nav-links a{position:relative;transition:color 0.2s}
+.nav-links a::after{content:'';position:absolute;bottom:-2px;left:0;width:0;height:1px;background:#2962FF;transition:width 0.3s cubic-bezier(0.4,0,0.2,1)}
+.nav-links a:hover::after,.nav-links a.active::after{width:100%}
+.nav-links a:hover{color:#ffffff !important}
+
+/* Card hover glow + lift */
+.wyg-card,.loop-card{transition:transform 0.3s cubic-bezier(0.4,0,0.2,1),border-color 0.3s,box-shadow 0.3s !important}
+.wyg-card:hover,.loop-card:hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12) !important}
+
+/* Pill hover */
+.pill{transition:all 0.2s;cursor:default}
+.pill:hover,.pill.active{background:rgba(103,142,172,0.15) !important;border-color:#678EAC !important;color:#C4C6D0 !important}
+
+/* Section fade-in on scroll */
+@keyframes fadeUp{from{opacity:0;transform:translateY(24px)}to{opacity:1;transform:translateY(0)}}
+.section,.who-section{}
+
+/* Hero title glow pulse */
+.hero-home-title,.h1{text-shadow:0 0 40px rgba(103,142,172,0.15)}
+
+/* Blinking cursor on hero eyebrow */
+.hero-coord::after{content:'_';animation:blink 1.2s step-end infinite;color:#678EAC;margin-left:2px}
+@keyframes blink{0%,100%{opacity:1}50%{opacity:0}}
+
+/* Nav blur backdrop stronger */
+nav{backdrop-filter:blur(20px) !important;-webkit-backdrop-filter:blur(20px) !important;border-bottom:1px solid rgba(103,142,172,0.15) !important}
+
+/* Eco-card hover */
+.eco-item{transition:background 0.2s}
+.eco-item:hover{background:rgba(103,142,172,0.06)}
+
+/* Number counter glow */
+.wyg-num{text-shadow:0 0 12px rgba(103,142,172,0.6)}
+
+/* Mission card hover */
+.mission-card{transition:transform 0.3s,border-color 0.3s,box-shadow 0.3s !important}
+.mission-card:hover{transform:translateY(-3px);border-color:rgba(103,142,172,0.4) !important;box-shadow:0 8px 24px rgba(103,142,172,0.1) !important}
+
+/* Loop card icon glow removed — hover matches Mission Core Activities exactly */
+
+/* Glitch flicker on page load for hero title */
+@keyframes glitch{0%{clip-path:inset(0 0 100% 0)}10%{clip-path:inset(30% 0 60% 0)}20%{clip-path:inset(0 0 0 0)}100%{clip-path:inset(0 0 0 0)}}
+
+/* Footer links hover */
+.footer-col a{transition:color 0.2s,padding-left 0.2s}
+.footer-col a:hover{color:#C4C6D0 !important;padding-left:4px}
+
+/* Gradient border on focus cards */
+.wyg-card:hover{background:rgba(15,20,30,0.95) !important}
+
+/* Ambient glow dots */
+@keyframes pulse-glow{0%,100%{box-shadow:0 0 0 0 rgba(103,142,172,0.4)}50%{box-shadow:0 0 0 8px rgba(103,142,172,0)}}
+.dot-pulse{animation:dotPulse 1.6s ease-in-out infinite,pulse-glow 2s ease-in-out infinite !important}
+
+/* ── Force white button text (overrides inline color: on buttons) ── */
+button, .nav-apply, .btn, .btn-blue, .btn-outline, .btn-outline-blue { color:#ffffff !important; }
+button img, button svg { filter: brightness(0) invert(1); }
+
+/* ════════ LIGHT MODE (toggle) ════════ */
+body.light {
+  --bg:#E3ECF5;
+  --bg2:#f1f5f9;
+  --bg3:#ffffff;
+  --bg4:#E3ECF5;
+  --blue:#3C5E78;
+  --blue2:#1d4ed8;
+  --blue-dim:rgba(96,165,250,.18);
+  --blue-border:#cbd5e1;
+  --white:#0f172a;
+  --gray:#64748b;
+  --gray2:#475569;
+  --border:#e2e8f0;
+  --border2:#e2e8f0;
+}
+body.light { background:#E3ECF5 !important; color:#0f172a !important; }
+
+/* Nav */
+body.light nav { background:rgba(248,250,252,.92) !important; border-bottom:1px solid rgba(15,23,42,.08) !important; }
+body.light .nav-logo-text { color:#1d4ed8 !important; }
+/* Tint the hand-mark logo image to light blue in light mode */
+body.light .nav-logo .logo-anim-wrap img,
+body.light .nav-logo img.logo-img,
+body.light .nav-logo > .logo-anim-wrap > img {
+  filter:brightness(0) saturate(100%) invert(74%) sepia(43%) saturate(640%) hue-rotate(187deg) brightness(101%) contrast(97%) !important;
+}
+/* Tint the decorative ring/orbit/scan accents too */
+body.light .nav-logo .logo-orbit-dot { background:#1d4ed8 !important; box-shadow:0 0 6px #1d4ed8 !important; }
+body.light .nav-logo .logo-ring { border-color:rgba(29,78,216,0.5) !important; }
+body.light .nav-logo .logo-ring-2 { border-color:rgba(29,78,216,0.25) !important; }
+body.light .nav-logo .logo-ring-3 { border-color:rgba(29,78,216,0.12) !important; }
+body.light .nav-logo .logo-orbit { border-color:rgba(29,78,216,0.35) !important; }
+body.light .nav-logo .logo-orbit-2 { border-color:rgba(29,78,216,0.20) !important; }
+body.light .nav-links li a { color:#475569 !important; }
+body.light .nav-links li a:hover, body.light .nav-links li a.active { color:#0f172a !important; }
+body.light .nav-apply { background:#3C5E78 !important; color:#ffffff !important; }
+body.light .nav-apply:hover { background:#2d4a60 !important; }
+
+/* Headings, body, lists, anchors */
+body.light h1, body.light h2, body.light h3, body.light h4, body.light h5,
+body.light .h1, body.light .h2, body.light .h3, body.light .h4 { color:#0f172a !important; }
+body.light p { color:#475569 !important; }
+body.light li, body.light ul, body.light ol { color:#475569; }
+body.light a:not(.nav-apply):not(.btn):not(.btn-blue):not(.pill) { color:inherit; }
+
+/* Helper text classes (defined in the stylesheet for dark mode) */
+body.light .body-sm { color:#475569 !important; }
+body.light .text-gray { color:#64748b !important; }
+body.light .text-gray2 { color:#475569 !important; }
+body.light .text-blue { color:#1d4ed8 !important; }
+body.light .label-tag { color:#1d4ed8 !important; }
+body.light .label-tag-gray { color:#64748b !important; }
+body.light .hero-coord { color:#475569 !important; }
+body.light .hero-coord::before { color:#1d4ed8 !important; }
+body.light .num-big { color:#0f172a !important; }
+body.light .num-label { color:#64748b !important; }
+body.light .more-link { color:#1d4ed8 !important; }
+body.light .status-badge { color:#1d4ed8 !important; border-color:#bfdbfe !important; }
+
+/* Mono telemetry labels and brackets */
+body.light [style*="font-family:'Roboto Mono'"] { color:#475569 !important; }
+
+/* Pills */
+body.light .pill { color:#475569 !important; background:rgba(60,94,120,.06) !important; border-color:rgba(60,94,120,.25) !important; }
+body.light .pill.active { background:rgba(29,78,216,.12) !important; border-color:#1d4ed8 !important; color:#1d4ed8 !important; }
+
+/* All major cards */
+body.light .ecosystem-card, body.light .doers-card, body.light .loop-card, body.light .wyg-card,
+body.light .mission-card, body.light .exec-card, body.light .compass-card, body.light .in-motion-card,
+body.light .deploy-card, body.light .flo-card, body.light .meet-fn-card, body.light .bl-card,
+body.light .eco-card-item, body.light .card, body.light .proj-card {
+  background:#ffffff !important; border-color:#e2e8f0 !important; box-shadow:0 1px 2px rgba(15,23,42,.04) !important;
+}
+body.light .proj-card:hover { background:#ffffff !important; }
+body.light .proj-card.large { background:#ffffff !important; }
+body.light .proj-card.large:hover { background:#ffffff !important; }
+/* Card-box hover (light mode): highlight border on hover, release cleanly on mouse-out */
+body.light [onmouseover*="borderColor"] { border-color:#e2e8f0 !important; transition:border-color .2s; }
+body.light [onmouseover*="borderColor"]:hover { border-color:#3C5E78 !important; }
+body.light .doers-list li { color:#475569 !important; border-color:#e2e8f0 !important; }
+body.light .in-motion-list li { color:#475569 !important; }
+
+/* Sections / dividers */
+body.light .who-section, body.light .section { border-color:#e2e8f0 !important; }
+body.light .divider, body.light hr { background:#e2e8f0 !important; border-color:#e2e8f0 !important; }
+body.light .blue-line, body.light .blue-line-center { background:#3C5E78 !important; }
+
+/* Inline-style attribute overrides, case-insensitive */
+body.light [style*="background:#1C202A" i] { background:#ffffff !important; }
+body.light [style*="background:#0F0F10" i],
+body.light [style*="background:#0b0e11" i],
+body.light [style*="background:#111827" i] { background:#E3ECF5 !important; }
+
+body.light [style*="background:#1f2937" i] { background:#E3ECF5 !important; }
+body.light [style*="background:#1e3a8a" i] { background:#dbeafe !important; }
+body.light [style*="background:#0f172a" i] { background:#f1f5f9 !important; }
+body.light [style*="border:1px solid #1f2937" i],
+body.light [style*="border:1px solid #334155" i],
+body.light [style*="border-color:#1f2937" i] { border-color:#e2e8f0 !important; }
+
+/* Dark text colors → readable in light mode */
+body.light [style*="color:#e5e7eb" i],
+body.light [style*="color:#f1f1f1" i],
+body.light [style*="color:#e2e2e6" i],
+body.light [style*="color:#e6edf3" i],
+body.light [style*="color:#f8fafc" i] { color:#0f172a !important; }
+
+body.light [style*="color:#c4c6d0" i],
+body.light [style*="color:#94a3b8" i],
+body.light [style*="color:#9ca3af" i] { color:#475569 !important; }
+
+body.light [style*="color:#6b7280" i] { color:#64748b !important; }
+body.light [style*="color:#cbd5e1" i] { color:#64748b !important; }
+body.light [style*="color:#e2e8f0" i] { color:#475569 !important; }
+body.light [style*="color:#8091aa" i] { color:#64748b !important; }
+
+/* Brand accent blues, make light-blue text darker for contrast */
+body.light [style*="color:#60a5fa" i],
+body.light [style*="color:#93c5fd" i] { color:#1d4ed8 !important; }
+body.light [style*="color:#3b82f6" i] { color:#1d4ed8 !important; }
+body.light [style*="color:#678eac" i] { color:#3C5E78 !important; }
+body.light [style*="color:#3c5e78" i] { color:#3C5E78 !important; }
+
+/* Anything explicitly white that's NOT inside a button → flip to dark */
+body.light [style*="color:#ffffff" i]:not(button):not(button *):not(.nav-apply):not(.nav-apply *):not(.btn):not(.btn *):not(.btn-blue):not(.btn-blue *) { color:#0f172a !important; }
+
+/* Buttons referenced inline (e.g. <button style="background:#93c5fd;color:#0F0F10"…>): preserve their dark text on light blue, already good. */
+body.light button[style*="background:#93c5fd" i] { color:#0f172a !important; }
+body.light button[style*="background:#bfdbfe" i] { color:#0f172a !important; }
+
+/* Hero scrim, soften and fade to page color */
+body.light [style*="rgba(2,6,18" i] { background:linear-gradient(to bottom, rgba(248,250,252,0) 0%, rgba(248,250,252,.10) 40%, rgba(248,250,252,.55) 75%, rgba(248,250,252,.96) 100%) !important; }
+
+/* Hero CTA caption "MISSION CONTROL_ALPHA" etc */
+body.light .hero-coord { color:#475569 !important; }
+
+/* Modal */
+body.light #modal-overlay { background:rgba(15,23,42,.45) !important; }
+body.light #modal-overlay > div { background:#ffffff !important; border-color:#e2e8f0 !important; color:#0f172a !important; box-shadow:0 25px 50px -12px rgba(15,23,42,.25) !important; }
+body.light #modal-overlay h1, body.light #modal-overlay h2, body.light #modal-overlay h3,
+body.light #modal-overlay h4, body.light #modal-overlay label,
+body.light #modal-overlay p, body.light #modal-overlay span { color:#0f172a !important; }
+body.light #modal-overlay label { color:#1d4ed8 !important; }
+body.light #modal-overlay input, body.light #modal-overlay textarea, body.light #modal-overlay select { background:#f8fafc !important; color:#0f172a !important; border-color:#cbd5e1 !important; }
+body.light #modal-overlay input::placeholder, body.light #modal-overlay textarea::placeholder { color:#94a3b8 !important; }
+
+/* Footer */
+body.light footer { background:#f1f5f9 !important; border-top:1px solid #e2e8f0 !important; color:#475569 !important; }
+body.light footer * { color:#475569 !important; }
+body.light footer h5 { color:#64748b !important; }
+body.light footer a { color:#475569 !important; }
+body.light footer a:hover { color:#0f172a !important; }
+body.light .footer-bottom { border-top:1px solid #e2e8f0 !important; }
+body.light .footer-brand-name { color:#0f172a !important; }
+
+/* Scanline overlay, almost invisible on white */
+body.light .page::before { background:repeating-linear-gradient(0deg,transparent,transparent 2px,rgba(60,94,120,.02) 2px,rgba(60,94,120,.02) 4px) !important; }
+
+/* Toggle button */
+#theme-toggle { color:#C4C6D0 !important; background:transparent !important; }
+body.light #theme-toggle { color:#0f172a !important; border-color:#cbd5e1 !important; }
+#theme-toggle img, #theme-toggle svg { filter:none !important; }
+
+/* Toast */
+body.light #toast { background:#0f172a !important; color:#ffffff !important; }
+
+/* Status dots stay green/blue */
+body.light .dot-active { background:#16a34a !important; }
+body.light .dot-pulse { background:#3C5E78 !important; }
+
+/* HERO LIGHT-MODE EXEMPTION */
+body.light .hero-home, body.light .hero-home * { color:#ffffff !important; }
+body.light .hero-home h1, body.light .hero-home h2, body.light .hero-home p,
+body.light .hero-home span:not(.pill-dot), body.light .hero-home a { color:#ffffff !important; }
+body.light .hero-home .hero-coord { color:rgba(255,255,255,.88) !important; }
+body.light .hero-home .pill { color:#ffffff !important; background:rgba(255,255,255,.08) !important; border-color:rgba(255,255,255,.35) !important; }
+body.light .hero-home .pill.active { color:#ffffff !important; background:rgba(96,165,250,.28) !important; border-color:rgba(147,197,253,.85) !important; }
+body.light .hero-status-card { background:rgba(6,12,20,.85) !important; border-color:rgba(255,255,255,.18) !important; color:#ffffff !important; }
+body.light .hero-status-card * { color:#ffffff !important; }
+
+/* Keep hero scrim dark in light mode so white text remains legible.
+   Only the bottom 4% fades into the light page background. */
+body.light [style*="rgba(2,6,18" i] { background:linear-gradient(to bottom, rgba(2,6,18,.30) 0%, rgba(2,6,18,.35) 40%, rgba(2,6,18,.70) 75%, rgba(2,6,18,.92) 96%, rgba(248,250,252,1) 100%) !important; }
+
+/* LIGHT-MODE: catch the remaining dark inline backgrounds */
+body.light .img-flobrain { filter: invert(1) brightness(0.45) contrast(1.4); }
+/* Core Values / value-card icons: pale-blue square + blue glyph in light mode */
+body.light [style*="background:#1e3a8a" i] { background:#e3ecf5 !important; }
+body.light [style*="background:#1e3a8a" i] img { filter: brightness(0) saturate(100%) invert(36%) sepia(24%) saturate(1100%) hue-rotate(176deg) brightness(92%) contrast(88%) !important; }
+/* Robot dog: pure white outline in dark mode, dark outline in light mode */
+.img-robot { filter: brightness(0) invert(1); }
+body.light .img-robot { filter: invert(1) brightness(0.5) contrast(1.5); }
+/* MoodChanger: white outline in dark mode, dark outline in light mode */
+.mc-light { display:none; }
+.mc-dark { display:block; }
+body.light .mc-dark { display:none; }
+body.light .mc-light { display:block; }
+body.light [style*="background:#0F0F10" i] { background:#E3ECF5 !important; }
+
+/* Reveal-animated sections re-serialize their inline style to rgb() form,
+   which breaks the hex substring match above. Catch the rgb() forms too. */
+body.light [style*="rgb(3, 16, 32)" i],
+body.light [style*="rgb(3,16,32)" i],
+body.light [style*="rgb(2, 6, 23)" i],
+body.light [style*="rgb(2,6,23)" i],
+body.light [style*="rgb(11, 18, 32)" i],
+body.light [style*="rgb(11,18,32)" i],
+body.light [style*="rgb(13, 23, 40)" i],
+body.light [style*="rgb(13,23,40)" i],
+body.light [style*="rgb(3, 11, 26)" i] { background:#E3ECF5 !important; }
+/* Make their headings/body text dark + readable on the now-white background */
+body.light :is([style*="rgb(3, 16, 32)" i],[style*="rgb(2, 6, 23)" i],[style*="rgb(3,16,32)" i],[style*="rgb(2,6,23)" i]) :is(h1,h2,h3,h4,h5) { color:#0f172a !important; }
+body.light :is([style*="rgb(3, 16, 32)" i],[style*="rgb(2, 6, 23)" i],[style*="rgb(3,16,32)" i],[style*="rgb(2,6,23)" i]) :is(p,li) { color:#334155 !important; }
+body.light [style*="background:rgba(15,17,22" i],
+body.light [style*="background:rgba(15,20,30" i] { background:#ffffff !important; }
+body.light [style*="background:rgba(2,6,23" i] { background:rgba(248,250,252,0.92) !important; }
+body.light [style*="background:rgba(6,12,20" i] { background:rgba(255,255,255,0.95) !important; }
+body.light [style*="background:rgba(4,8,15" i] { background:rgba(15,23,42,0.45) !important; }
+
+/* The two big "hero/panel" linear-gradients with #0F0F10 and #0F0F10 starts */
+body.light [style*="linear-gradient(135deg, #0F0F10" i],
+body.light [style*="linear-gradient(135deg,#0F0F10" i],
+body.light [style*="linear-gradient(135deg, #0F0F10" i],
+body.light [style*="linear-gradient(135deg,#0F0F10" i] {
+  background:#E3ECF5 !important;
+}
+
+/* Anywhere the "earth/space" radial gradient backgrounds sit on dark, soften */
+body.light [style*="radial-gradient" i][style*="#030d1a" i],
+body.light [style*="radial-gradient" i][style*="#000508" i] { background:#f1f5f9 !important; }
+
+/* Subtle white-tint overlays designed for dark cards become invisible on white, bump them */
+body.light [style*="background:rgba(255,255,255,0.04)" i],
+body.light [style*="background:rgba(255,255,255,0.08)" i] { background:rgba(15,23,42,0.04) !important; }
+
+/* Brand-blue translucent backgrounds */
+body.light [style*="background:rgba(103,142,172,0.12)" i],
+body.light [style*="background:rgba(103,142,172,0.15)" i],
+body.light [style*="background:rgba(103,142,172,0.06)" i] { background:rgba(60,94,120,0.08) !important; }
+
+/* Brand-blue accent backgrounds used as badges → light-blue tint */
+body.light [style*="background:rgba(96,165,250,0.12)" i],
+body.light [style*="background:rgba(59,130,246,0.1)" i] { background:rgba(29,78,216,0.10) !important; }
+
+/* Status pill: orange/red/grey backgrounds on dark cards already work on white */
+/* Keep them */
+
+/* Specific blocks that use var(--bg4)/var(--bg3)/etc are already remapped via the body.light var override. */
+
+/* ════════ LIGHT MODE, WHITE BOXES (rest + hover), BLACK TEXT ════════ */
+body.light :is(.ecosystem-card,.doers-card,.loop-card,.wyg-card,.mission-card,.exec-card,.compass-card,.in-motion-card,.deploy-card,.flo-card,.meet-fn-card,.bl-card,.eco-card-item,.card,.proj-card,.proj-card.large),
+body.light :is(.ecosystem-card,.doers-card,.loop-card,.wyg-card,.mission-card,.exec-card,.compass-card,.in-motion-card,.deploy-card,.flo-card,.meet-fn-card,.bl-card,.eco-card-item,.card,.proj-card,.proj-card.large):hover {
+  background:#ffffff !important;
+  border-color:#e2e8f0 !important;
+  box-shadow:0 1px 3px rgba(15,23,42,.10) !important;
+}
+/* Black, readable text on the white boxes in both states */
+body.light :is(.ecosystem-card,.doers-card,.loop-card,.wyg-card,.mission-card,.exec-card,.compass-card,.in-motion-card,.deploy-card,.flo-card,.meet-fn-card,.bl-card,.eco-card-item,.card,.proj-card) :is(h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4) {
+  color:#0f172a !important;
+}
+body.light :is(.ecosystem-card,.doers-card,.loop-card,.wyg-card,.mission-card,.exec-card,.compass-card,.in-motion-card,.deploy-card,.flo-card,.meet-fn-card,.bl-card,.eco-card-item,.card,.proj-card) :is(p,li) {
+  color:#334155 !important;
+}
+
+/* ── Projects: single-line carousel ── */
+#projects-grid{
+  display:flex !important;
+  flex-wrap:nowrap;
+  margin-bottom:3rem;
+  align-items:stretch;
+  gap:16px;
+  overflow-x:auto;
+  overflow-y:hidden;
+  scroll-snap-type:x proximity;
+  -webkit-overflow-scrolling:touch;
+  padding-bottom:1.25rem;
+  scrollbar-width:thin;
+  scrollbar-color:#FFFFFF transparent;
+}
+#projects-grid > div{display:contents !important;}
+#projects-grid > div > div{
+  flex:0 0 330px;
+  width:330px;
+  scroll-snap-align:start;
+}
+#projects-grid{scrollbar-width:thin;scrollbar-color:transparent transparent;}
+#projects-grid::-webkit-scrollbar{height:4px;}
+#projects-grid::-webkit-scrollbar-track{background:transparent;border-radius:4px;}
+#projects-grid::-webkit-scrollbar-thumb{background:transparent;border:1px solid rgba(196,198,208,0.5);border-radius:4px;}
+#projects-grid::-webkit-scrollbar-thumb:hover{border-color:rgba(255,255,255,0.8);}
+
+/* Ecosystem carousel: hide scrollbar (nav via arrows) */
+#home-ecosystem-cards{scrollbar-width:none;-ms-overflow-style:none;}
+#home-ecosystem-cards::-webkit-scrollbar{display:none;height:0;width:0;}
+
+/* Brand logo (nav + footer) recolored to #2962FF */
+.nav-logo .logo-anim-wrap img,
+footer .footer-brand img { filter: url(#tint-355872) !important; }
+
+
+/* ===== next style block ===== */
+
+
+@keyframes ripple{to{transform:scale(2);opacity:0}}
+
+/* ═══ LOGO ANIMATION ═══ */
+.logo-anim-wrap{position:relative;width:62px;height:62px;display:flex;align-items:center;justify-content:center;flex-shrink:0;background:transparent}
+.nav-logo .logo-anim-wrap img{width:58px;height:58px;object-fit:contain;filter:brightness(0) invert(1);background:transparent}
+.logo-img{width:32px;height:32px;object-fit:contain;position:relative;z-index:5}
+.logo-ring{position:absolute;border-radius:50%;border:1px solid rgba(103,142,172,0.3);animation:logoRing 3s ease-in-out infinite}
+.logo-ring-1{width:38px;height:38px;animation-delay:0s}
+.logo-ring-2{width:52px;height:52px;animation-delay:0.4s;border-color:rgba(103,142,172,0.15)}
+.logo-ring-3{width:66px;height:66px;animation-delay:0.8s;border-color:rgba(103,142,172,0.07)}
+@keyframes logoRing{0%,100%{transform:scale(1);opacity:0.6}50%{transform:scale(1.05);opacity:1}}
+.logo-radar{position:absolute;width:38px;height:38px;border-radius:50%;overflow:hidden;z-index:3;opacity:0.35}
+.logo-radar::after{content:'';position:absolute;top:50%;left:50%;width:50%;height:2px;background:linear-gradient(to right,rgba(103,142,172,0.9),transparent);transform-origin:left center;animation:radarSpin 2.5s linear infinite}
+@keyframes radarSpin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+.logo-orbit{position:absolute;width:50px;height:50px;border-radius:50%;border:1px dashed rgba(103,142,172,0.2);animation:orbitSpin 4s linear infinite;z-index:2}
+.logo-orbit-2{width:64px;height:64px;animation-duration:7s;animation-direction:reverse;border-color:rgba(103,142,172,0.12)}
+.logo-orbit-dot{position:absolute;width:4px;height:4px;background:#678EAC;border-radius:50%;top:-2px;left:50%;transform:translateX(-50%);box-shadow:0 0 6px #678EAC}
+@keyframes orbitSpin{from{transform:rotate(0deg)}to{transform:rotate(360deg)}}
+.logo-scan-line{position:absolute;width:32px;height:1px;background:linear-gradient(to right,transparent,rgba(103,142,172,0.6),transparent);animation:scanLine 2s ease-in-out infinite;z-index:6}
+@keyframes scanLine{0%,100%{top:2px;opacity:0}20%{opacity:1}80%{opacity:1}to{top:38px;opacity:0}}
+
+/* Logo container sizing fix for nav */
+.nav-logo{gap:12px !important}
+.nav-logo .logo-anim-wrap{margin-right:4px}
+
+/* Nav logo hover pulse */
+
+
+
+/* ===== next style block ===== */
+
+
+@keyframes planetTransition{
+  0%{opacity:0;transform:scale(0.95)}
+  40%{opacity:1}
+  100%{opacity:0;transform:scale(1.02)}
+}
+@keyframes navPing{
+  0%{transform:translate(-50%,-50%) scale(1);opacity:1}
+  100%{transform:translate(-50%,-50%) scale(3);opacity:0}
+}
+
+/* Glass morphism cards */
+.wyg-card,.loop-card,.mission-card{
+  transition:transform 0.15s ease, box-shadow 0.15s ease, border-color 0.3s !important;
+  will-change:transform;
+}
+
+/* Glowing borders on active nav */
+nav a.active{text-shadow:0 0 10px rgba(103,142,172,0.6) !important}
+
+/* HUD corner brackets on section containers */
+.container{position:relative}
+
+/* Data stream on hero eyebrow */
+@keyframes dataStream{
+  0%{opacity:0;transform:translateX(-8px)}
+  10%{opacity:1;transform:translateX(0)}
+  90%{opacity:1}
+  100%{opacity:0;transform:translateX(8px)}
+}
+
+/* Ambient glow on cards — bg fill removed to match Mission Core Activities hover */
+
+/* Neon text on numbers */
+.wyg-num{
+  text-shadow:0 0 8px rgba(103,142,172,0.7),0 0 16px rgba(103,142,172,0.3) !important;
+}
+
+
+/* ===== next style block ===== */
+
+
+/* ═══ SCROLL REVEAL BASE ═══ */
+.reveal{opacity:0;transform:translateY(32px);transition:opacity 0.7s cubic-bezier(0.4,0,0.2,1),transform 0.7s cubic-bezier(0.4,0,0.2,1)}
+.reveal.visible{opacity:1;transform:translateY(0)}
+.reveal-left{opacity:0;transform:translateX(-40px);transition:opacity 0.7s ease,transform 0.7s ease}
+.reveal-left.visible{opacity:1;transform:translateX(0)}
+.reveal-right{opacity:0;transform:translateX(40px);transition:opacity 0.7s ease,transform 0.7s ease}
+.reveal-right.visible{opacity:1;transform:translateX(0)}
+.reveal-scale{opacity:0;transform:scale(0.92);transition:opacity 0.6s ease,transform 0.6s ease}
+.reveal-scale.visible{opacity:1;transform:scale(1)}
+.reveal-delay-1{transition-delay:0.1s}
+.reveal-delay-2{transition-delay:0.2s}
+.reveal-delay-3{transition-delay:0.3s}
+.reveal-delay-4{transition-delay:0.4s}
+.reveal-delay-5{transition-delay:0.5s}
+.reveal-delay-6{transition-delay:0.6s}
+
+/* ── Stagger children ── */
+.stagger-children>*{opacity:0;transform:translateY(20px);transition:opacity 0.5s ease,transform 0.5s ease}
+.stagger-children.visible>*{opacity:1;transform:translateY(0)}
+.stagger-children.visible>*:nth-child(1){transition-delay:0.05s}
+.stagger-children.visible>*:nth-child(2){transition-delay:0.15s}
+.stagger-children.visible>*:nth-child(3){transition-delay:0.25s}
+.stagger-children.visible>*:nth-child(4){transition-delay:0.35s}
+.stagger-children.visible>*:nth-child(5){transition-delay:0.45s}
+.stagger-children.visible>*:nth-child(6){transition-delay:0.55s}
+
+/* ── Parallax hero ── */
+.hero-parallax{will-change:transform}
+
+/* ── Glowing progress line ── */
+#scroll-progress{position:fixed;top:0;left:0;height:2px;background:linear-gradient(to right,#3C5E78,#678EAC);z-index:9999;transition:width 0.1s linear;box-shadow:0 0 8px #678EAC}
+
+/* ── Section number counter ── */
+.counter-num{display:inline-block;transition:transform 0.3s}
+.counter-num.counting{animation:countFlip 0.4s ease}
+@keyframes countFlip{0%{transform:translateY(-100%);opacity:0}100%{transform:translateY(0);opacity:1}}
+
+/* ── Floating label tags ── */
+.float-tag{animation:floatTag 3s ease-in-out infinite}
+@keyframes floatTag{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}
+
+/* ── Typewriter ── */
+.typewriter{overflow:hidden;white-space:nowrap;border-right:2px solid #678EAC;animation:typing 1.8s steps(30,end) forwards,blinkCursor 0.8s step-end infinite}
+@keyframes typing{from{width:0}to{width:100%}}
+@keyframes blinkCursor{0%,100%{border-color:#678EAC}50%{border-color:transparent}}
+
+/* ── Card entrance ── */
+.card-entrance{opacity:0;transform:translateY(24px) scale(0.97);transition:opacity 0.5s ease,transform 0.5s ease}
+.card-entrance.visible{opacity:1;transform:translateY(0) scale(1)}
+
+/* ── Section divider line animate ── */
+.divider-line{width:0;height:1px;background:linear-gradient(to right,#678EAC,transparent);transition:width 1.2s ease}
+.divider-line.visible{width:100%}
+
+/* ── Number stat counter ── */
+@keyframes statPop{0%{transform:scale(0.7);opacity:0}70%{transform:scale(1.1)}100%{transform:scale(1);opacity:1}}
+.stat-num{opacity:0}
+.stat-num.visible{animation:statPop 0.6s ease forwards}
+
+
+/* ===== next style block ===== */
+
+
+@keyframes particleBurst {
+  0% { transform: translate(0,0) scale(1); opacity: 1; }
+  100% { transform: translate(calc(cos(var(--angle)) * 40px), calc(sin(var(--angle)) * 40px)) scale(0); opacity: 0; }
+}
+/* Override static opacity from previous script */
+.section.reveal, .who-section.reveal { opacity: 0; transform: translateY(32px); }
+.section.reveal.visible, .who-section.reveal.visible { opacity: 1; transform: translateY(0); }
+
+/* LIGHT-MODE: footer logo + brighter info bands */
+
+/* Tint every footer logo image the same brand blue as the nav logo */
+body.light .footer-brand img,
+body.light footer .footer-brand img {
+  filter:brightness(0) saturate(100%) invert(74%) sepia(43%) saturate(640%) hue-rotate(187deg) brightness(101%) contrast(97%) drop-shadow(0 0 6px rgba(147,197,253,0.6)) !important;
+}
+body.light .footer-brand .footer-brand-name,
+body.light .footer-brand > div { color:#1d4ed8 !important; }
+
+/* "Info" section bands (Mission Core, Execution Loop, etc), use a soft blue
+   tint so they read as distinct sections, not just white-on-white. */
+body.light [style*="background:#0F0F10" i] { background:#eff6ff !important; }
+body.light [style*="background:#0F0F10" i] { background:#f8fafc !important; }
+body.light [style*="background:#0F0F10" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#0b0e11" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#1C202A" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#0f0f10" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#0f172a" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#0F0F10" i] { background:#f1f5f9 !important; }
+body.light [style*="background:#0F0F10" i] { background:#f1f5f9 !important; }
+
+/* Make sure inner-card backgrounds inside those sections sit a step LIGHTER
+   than the section band, so they have a soft elevation. */
+body.light [style*="background:#1C202A" i],
+body.light [style*="background:#111827" i] { background:#ffffff !important; }
+
+/* Section borders */
+body.light [style*="border-top:1px solid #1f2937" i] { border-top-color:#e2e8f0 !important; }
+body.light [style*="border-bottom:1px solid #1f2937" i] { border-bottom-color:#e2e8f0 !important; }
+
+/* The execution-loop "01 / 02 / 03" big numerals */
+body.light .num-tag,
+body.light .wyg-num { color:#1d4ed8 !important; }
+body.light .loop-num { color:#0f172a !important; }
+
+/* Mission Core / Execution Loop headings explicitly */
+body.light .h2, body.light h2 { color:#0f172a !important; }
+
+/* Project hero title (uses #E6EDF3) needs to be dark */
+body.light [style*="color:#e6edf3" i] { color:#0f172a !important; }
+
+/* LIGHT-MODE FIX: hero text + section text readability */
+
+/* 1) Hero exemption with ID-level specificity, beats every other selector */
+body.light #page-home .hero-home,
+body.light #page-home .hero-home *,
+body.light #page-home .hero-home p,
+body.light #page-home .hero-home h1,
+body.light #page-home .hero-home span:not(.pill-dot) {
+  color:#ffffff !important;
+}
+body.light #page-home .hero-home .pill { color:#ffffff !important; background:rgba(255,255,255,.08) !important; border-color:rgba(255,255,255,.35) !important; }
+body.light #page-home .hero-home .pill.active { color:#ffffff !important; background:rgba(96,165,250,.28) !important; border-color:rgba(147,197,253,.85) !important; }
+
+/* 2) Force readable text inside the major dark-band sections via wildcard
+      child-color override (covers cards, headings, paragraphs, list items). */
+body.light [style*="background:#0F0F10" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *),
+body.light [style*="background:#0F0F10" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *),
+body.light [style*="background:#0b0e11" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *),
+body.light [style*="background:#1C202A" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *),
+body.light [style*="background:#0F0F10" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *),
+body.light [style*="background:#0F0F10" i] *:not(.pill):not(.pill-dot):not(.status-badge):not(.pill *):not(button):not(button *) {
+  color:#0f172a !important;
+}
+/* Their headings extra-bold; paragraphs medium slate */
+body.light [style*="background:#0F0F10" i] p,
+body.light [style*="background:#0F0F10" i] li,
+body.light [style*="background:#0F0F10" i] p,
+body.light [style*="background:#0F0F10" i] li,
+body.light [style*="background:#0F0F10" i] p,
+body.light [style*="background:#0F0F10" i] li { color:#475569 !important; }
+
+/* 3) Cards inside those sections: white background + dark text */
+body.light [style*="background:#0F0F10" i] [style*="background:#1C202A" i],
+body.light [style*="background:#0F0F10" i] [style*="background:#111827" i],
+body.light [style*="background:#0F0F10" i] [style*="background:#1C202A" i],
+body.light [style*="background:#0F0F10" i] [style*="background:#111827" i] {
+  background:#ffffff !important; border-color:#e2e8f0 !important;
+}
+
+/* 4) Project hero title (#E6EDF3 near-white) → dark slate */
+body.light [style*="color:#e6edf3" i] { color:#0f172a !important; }
+
+/* 5) "10 of 10 // Available" / "R & D // Available" status text was #6b7280
+      inside white card on white page, make sure it's readable. */
+body.light .more-link, body.light [style*="font-family:'Roboto Mono'" i] { color:#475569 !important; }
+
+/* 6) Section heading "Mission Core Activities", "The Execution Loop", etc */
+body.light [style*="background:#0F0F10" i] h1,
+body.light [style*="background:#0F0F10" i] h2,
+body.light [style*="background:#0F0F10" i] h3,
+body.light [style*="background:#0F0F10" i] h4 { color:#0f172a !important; }
+
+/* 7) The "Astronaut floating in space" caption (Target Demographic) */
+body.light [style*="background:#0F0F10" i] h1,
+body.light [style*="background:#0F0F10" i] h2,
+body.light [style*="background:#0F0F10" i] h3,
+body.light [style*="background:#0F0F10" i] h4 { color:#0f172a !important; }
+
+/* === Brand blue (#678EAC) on logo + wordmark, LIGHT MODE ONLY === */
+body.light .nav-logo .logo-anim-wrap img,
+body.light footer .footer-brand img {
+  filter: brightness(0) saturate(100%) invert(58%) sepia(13%) saturate(700%) hue-rotate(176deg) brightness(91%) contrast(85%) !important;
+}
+body.light .nav-logo-text { color:#678EAC !important; }
+body.light .footer-brand .footer-brand-name,
+body.light .footer-brand > div { color:#678EAC !important; }
+body.light .nav-logo .logo-orbit-dot { background:#678EAC !important; box-shadow:0 0 6px #678EAC !important; }
+body.light .nav-logo .logo-ring   { border-color:rgba(103,142,172,0.55) !important; }
+body.light .nav-logo .logo-ring-2 { border-color:rgba(103,142,172,0.30) !important; }
+body.light .nav-logo .logo-ring-3 { border-color:rgba(103,142,172,0.15) !important; }
+body.light .nav-logo .logo-orbit   { border-color:rgba(103,142,172,0.35) !important; }
+body.light .nav-logo .logo-orbit-2 { border-color:rgba(103,142,172,0.20) !important; }
+
+/* LIGHT MODE: readable hover text colors */
+body.light .nav-links li a:hover,
+body.light .nav-links li a.active { color:#0f172a !important; }
+body.light .nav-link:hover { color:#0f172a !important; }
+body.light .footer-col a:hover { color:#0f172a !important; }
+body.light .footer-social a:hover { color:#0f172a !important; }
+body.light .doers-list li:hover, body.light .more-link:hover,
+body.light a:hover:not(.nav-apply):not(.btn):not(.btn-blue):not(.btn-outline-blue):not(.pill) { color:#1d4ed8 !important; }
+
+/* Cards: on hover keep dark text */
+body.light .proj-card:hover, body.light .deploy-card:hover,
+body.light .ecosystem-card:hover, body.light .doers-card:hover,
+body.light .loop-card:hover, body.light .wyg-card:hover,
+body.light .mission-card:hover, body.light .exec-card:hover,
+body.light .compass-card:hover, body.light .in-motion-card:hover,
+body.light .flo-card:hover, body.light .meet-fn-card:hover,
+body.light .bl-card:hover, body.light .eco-card-item:hover { background:#f8fafc !important; }
+
+body.light .proj-card:hover *, body.light .deploy-card:hover *,
+body.light .ecosystem-card:hover *, body.light .doers-card:hover *,
+body.light .loop-card:hover *, body.light .wyg-card:hover *,
+body.light .mission-card:hover *, body.light .exec-card:hover *,
+body.light .compass-card:hover *, body.light .in-motion-card:hover *,
+body.light .flo-card:hover *, body.light .meet-fn-card:hover *,
+body.light .bl-card:hover *, body.light .eco-card-item:hover * { color:inherit !important; }
+
+/* Pills on hover */
+body.light .pill:hover { color:#0f172a !important; background:rgba(60,94,120,0.10) !important; border-color:#3C5E78 !important; }
+
+/* Footer hover */
+body.light footer a:hover { color:#0f172a !important; }
+body.light footer a:hover * { color:#0f172a !important; }
+
+/* Light mode: no dark/black outline on any card box — at rest AND on hover.
+   Targeting the static onmouseover attr + !important beats the inline color
+   the hover JS sets, so the border stays soft in both states. */
+body.light [onmouseover*="borderColor"],
+body.light [onmouseover*="borderColor"]:hover,
+body.light [style*="border:1px solid #1f2937"],
+body.light [style*="border: 1px solid #1f2937"],
+body.light .wyg-card, body.light .wyg-card:hover,
+body.light .loop-card, body.light .loop-card:hover,
+body.light .mission-card, body.light .mission-card:hover,
+body.light .value-card, body.light .value-card:hover,
+body.light .doers-card, body.light .doers-card:hover,
+body.light .eco-card-item, body.light .eco-card-item:hover,
+body.light .proj-card, body.light .proj-card:hover,
+body.light .ecosystem-card, body.light .ecosystem-card:hover,
+body.light .compass-card, body.light .in-motion-card,
+body.light .deploy-card, body.light .flo-card,
+body.light .meet-fn-card, body.light .bl-card,
+body.light .exec-card { border-color:#e5e7eb !important; }
+
+/* Light mode: carousel arrow buttons in brand blue (override global white-button rules) */
+body.light button[aria-label^="Scroll"] { color:#3C5E78 !important; border-color:#3C5E78 !important; }
+body.light button[aria-label^="Scroll"] svg { filter:none !important; stroke:#3C5E78 !important; }
+
+/* Light mode: "Want to Plug In / Join the Venture Studio" box outline -> black */
+body.light .plug-in-box { border-color:#0f172a !important; }
+/* Light mode: nav Apply Now button label stays white */
+body.light .nav-apply, body.light .nav-apply * { color:#ffffff !important; }
+
+/* ════════════════════════════════════════════════════════════════
+   LIGHT MODE — FINAL OVERRIDES
+   The scroll-reveal script reserializes inline styles from hex → rgb(),
+   so hex attribute selectors stop matching. Target the rgb() forms too.
+   ════════════════════════════════════════════════════════════════ */
+
+/* Dark section backgrounds (#0F0F10 / #111827) → light blue */
+body.light [style*="rgb(15, 15, 16)" i],
+body.light [style*="rgb(17, 24, 39)" i],
+body.light [style*="rgb(11, 14, 17)" i] { background-color:#E3ECF5 !important; }
+
+/* Card backgrounds (#1C202A) → white, at rest AND on hover */
+body.light [style*="rgb(28, 32, 42)" i] { background-color:#ffffff !important; }
+
+/* Dark borders (#1f2937 / #334155) → soft light border */
+body.light [style*="rgb(31, 41, 55)" i],
+body.light [style*="rgb(51, 65, 85)" i] { border-color:#e2e8f0 !important; }
+
+/* ALL card boxes white — resting AND hover (override the earlier #f8fafc hover) */
+body.light .proj-card, body.light .proj-card:hover,
+body.light .proj-card.large, body.light .proj-card.large:hover,
+body.light .ecosystem-card, body.light .ecosystem-card:hover,
+body.light .doers-card, body.light .doers-card:hover,
+body.light .loop-card, body.light .loop-card:hover,
+body.light .wyg-card, body.light .wyg-card:hover,
+body.light .mission-card, body.light .mission-card:hover,
+body.light .exec-card, body.light .exec-card:hover,
+body.light .compass-card, body.light .compass-card:hover,
+body.light .in-motion-card, body.light .in-motion-card:hover,
+body.light .deploy-card, body.light .deploy-card:hover,
+body.light .flo-card, body.light .flo-card:hover,
+body.light .meet-fn-card, body.light .meet-fn-card:hover,
+body.light .bl-card, body.light .bl-card:hover,
+body.light .eco-card-item, body.light .eco-card-item:hover,
+body.light .value-card, body.light .value-card:hover,
+body.light .card, body.light .card:hover { background-color:#ffffff !important; }
+
+/* ALL TEXT BLACK in light mode — every light/gray text color (hex + rgb forms).
+   Buttons keep their own explicit colors (handled by .nav-apply etc.). */
+body.light [style*="color:#e5e7eb" i], body.light [style*="rgb(229, 231, 235)" i],
+body.light [style*="color:#f1f1f1" i], body.light [style*="rgb(241, 241, 241)" i],
+body.light [style*="color:#e6edf3" i], body.light [style*="rgb(230, 237, 243)" i],
+body.light [style*="color:#d4dce9" i], body.light [style*="rgb(212, 220, 233)" i],
+body.light [style*="color:#c4c6d0" i], body.light [style*="rgb(196, 198, 208)" i],
+body.light [style*="color:#9ca3af" i], body.light [style*="rgb(156, 163, 175)" i],
+body.light [style*="color:#94a3b8" i], body.light [style*="rgb(148, 163, 184)" i],
+body.light [style*="color:#6b7280" i], body.light [style*="rgb(107, 114, 128)" i],
+body.light [style*="color:#cbd5e1" i], body.light [style*="rgb(203, 213, 225)" i],
+body.light [style*="color:#8091aa" i], body.light [style*="rgb(128, 145, 170)" i],
+body.light [style*="color:#d4dce9" i] { color:#0f172a !important; }
+
+/* Headings, paragraphs, list items, mono labels inside dark-bg sections → black */
+body.light [style*="rgb(15, 15, 16)" i] h1, body.light [style*="rgb(15, 15, 16)" i] h2,
+body.light [style*="rgb(15, 15, 16)" i] h3, body.light [style*="rgb(15, 15, 16)" i] h4,
+body.light [style*="rgb(15, 15, 16)" i] h5, body.light [style*="rgb(15, 15, 16)" i] p,
+body.light [style*="rgb(15, 15, 16)" i] li, body.light [style*="rgb(15, 15, 16)" i] span,
+body.light .this-for-list li span,
+body.light h1, body.light h2, body.light h3, body.light h4, body.light h5,
+body.light p, body.light li { color:#0f172a !important; }
+
+/* Keep dark-blue (#2962FF) action buttons' labels WHITE — they sit inside
+   #0F0F10 sections, so the universal black-text descendant rules above
+   would otherwise turn their inline white text dark-on-dark. */
+body.light [style*="background:#0F0F10" i] button,
+body.light [style*="rgb(15, 15, 16)" i] button,
+body.light button[style*="background:#2962FF" i],
+body.light button[style*="#2962FF" i],
+body.light [style*="background:#2962FF" i],
+body.light [style*="#2962FF" i] { color:#ffffff !important; }
+body.light [style*="background:#2962FF" i] *,
+body.light [style*="#2962FF" i] * { color:#ffffff !important; }
+
+
+/* ===== next style block ===== */
+
+
+/* Consistent card hover across the whole site */
+[style*="border:1px solid rgba(148,163,184,0.35)"][style*="border-radius:10px"]:not(button){transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s !important}
+[style*="border:1px solid rgba(148,163,184,0.35)"][style*="border-radius:10px"]:not(button):hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12) !important}
+[style*="border:1px solid rgba(148,163,184,0.35)"][style*="border-radius:10px"]:not(button):hover svg,[style*="border:1px solid rgba(148,163,184,0.35)"][style*="border-radius:10px"]:not(button):hover img{filter:drop-shadow(0 0 6px rgba(103,142,172,0.6))}
+.__orig_hover_off{box-shadow:0 12px 34px rgba(59,130,246,0.13) !important}
+/* Project cards: consistent blue accent for visual color */
+#projects-grid [data-cat]{border-top:2px solid rgba(59,130,246,0.4) !important}
+/* Who We Are: right image fills + centers subject */
+#who-right-img img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+/* Who This Is For: full-bleed background image + centered readable copy */
+.who-for-bg img{width:100%;height:100%;object-fit:cover;object-position:center;display:block}
+.this-for-center{max-width:720px;margin:0 auto;text-align:center;display:block}
+.this-for-center li{border-bottom:1px solid rgba(148,163,184,0.18);padding:0.85rem 0}
+.this-for-center li span{color:#ffffff !important;font-size:1rem !important;line-height:1.7 !important;font-weight:400}
+/* Slim horizontal scrollbar (prevent overlap onto following imagery) */
+#projects-grid > div{scrollbar-width:thin;scrollbar-color:rgba(103,142,172,0.5) transparent}
+#projects-grid > div::-webkit-scrollbar{height:6px}
+#projects-grid > div::-webkit-scrollbar-thumb{background:rgba(103,142,172,0.45);border-radius:3px}
+#projects-grid > div::-webkit-scrollbar-track{background:transparent}
+
+
+/* ===== next style block ===== */
+
+
+/* ── Canonical section title + animated underline ── */
+.sec-title{font-family:'Space Grotesk',sans-serif;font-size:clamp(2.2rem,5vw,4rem);font-weight:700;line-height:1.05;letter-spacing:-0.01em;text-transform:uppercase;color:#E6EDF3;margin:0}
+.sec-underline{display:block;width:0;height:2px;background:linear-gradient(to right,#678EAC,rgba(103,142,172,0));margin-top:1rem;max-width:240px;transition:width 1s cubic-bezier(.4,0,.2,1)}
+.sec-underline.visible{width:240px}
+.sec-underline.center{margin-left:auto;margin-right:auto}
+body.light .sec-title{color:#0f172a}
+body.light .sec-underline{background:linear-gradient(to right,#3C5E78,rgba(60,94,120,0))}
+
+/* ── Nav hover/active underline — aligned across all items ── */
+.nav-links li a{position:relative}
+.nav-links li a::after{content:'';position:absolute;left:1.1rem;right:1.1rem;bottom:0;height:2px;background:#2962FF;transform:scaleX(0);transform-origin:center;transition:transform .18s ease}
+.nav-links li a:hover::after,.nav-links li a.active::after{transform:scaleX(1)}
+.nav-links li a.active{border-bottom:none !important}
+body.light .nav-links li a::after{background:#3C5E78}
+
+/* ── Projects carousel ── */
+#home-projects-cards{scrollbar-width:none;-ms-overflow-style:none}
+#home-projects-cards::-webkit-scrollbar{display:none;height:0;width:0}
+#home-projects-cards > .pcard{flex:0 0 320px;align-self:stretch}
+
+/* ── Image-bg sections keep light text in light mode ── */
+body.light .img-section h1,body.light .img-section h2,body.light .img-section h3,
+body.light .img-section p,body.light .img-section li,body.light .img-section span,
+body.light .img-section a,body.light .img-section .sec-title{color:#ffffff !important}
+body.light .img-section .sec-underline{background:linear-gradient(to right,#93c5fd,rgba(147,197,253,0)) !important}
+
+/* ── Light mode: unify ALL section backgrounds to the Journey tone ── */
+body.light .section,body.light .who-section,body.light .page,
+body.light [style*="background:var(--bg)"],
+body.light [style*="background:var(--bg4)"],
+body.light [style*="background:#0f172a" i]{background:#E3ECF5 !important}
+
+
+/* ===== next style block ===== */
+
+
+/* Remove all section divider hairlines + any residual corner brackets */
+.section, .who-section, #home-who-section, #home-mission-section,
+[style*="border-top:1px solid #1f2937" i],
+[style*="border-bottom:1px solid #1f2937" i],
+[style*="border-top:1px solid var(--border)" i],
+[style*="border-bottom:1px solid var(--border)" i]{border-top:none !important;border-bottom:none !important}
+
+
+/* ===== next style block ===== */
+
+
+/* Uniform light-mode section bg — match "Our Journey Forward" */
+body.light #home-journey-section{background:#E3ECF5 !important}
+/* Image-bg sections: text stays white in light mode (ID-scoped to beat the white→dark flip) */
+body.light #page-home .img-section :is(h1,h2,h3,h4,p,li,span,a),
+body.light #page-about .img-section :is(h1,h2,h3,h4,p,li,span,a){color:#ffffff !important}
+body.light #page-home .img-section .sec-underline,
+body.light #page-about .img-section .sec-underline{background:linear-gradient(to right,#93c5fd,rgba(147,197,253,0)) !important}
+/* Keep status pill accent text readable over the dark photo cards */
+/* Keep image-section accent/badge colours identical in both modes */
+body.light #page-home .img-section [style*="color:#678EAC" i],body.light #page-about .img-section [style*="color:#678EAC" i]{color:#678EAC !important}
+body.light #page-home .img-section [style*="color:#C67213" i]{color:#C67213 !important}
+body.light #page-home .img-section [style*="color:#CEA212" i]{color:#CEA212 !important}
+
+
+/* ===== next style block ===== */
+
+
+body.light #home-projects-wrap{background:#ffffff !important}
+/* Image-bg sections keep their dark canvas in light mode (image must not sit on white) */
+body.light .img-section,body.light .section.img-section,body.light .who-section.img-section{background:#0B0E11 !important}
+/* Light mode: entire page + footer white */
+body.light{background:#ffffff !important}
+body.light .section,body.light .who-section,body.light .page,body.light footer,
+body.light [style*="background:var(--bg)"],body.light [style*="background:var(--bg4)"],
+body.light [style*="background:#0f172a" i],body.light #home-journey-section{background:#ffffff !important}
+body.light footer{background:#ffffff !important;border-top:1px solid #e2e8f0 !important}
+/* Image-bg sections: image at ~70% + dark color layer for readability */
+#home-who-section > img[style*="object-fit:cover"]{opacity:0.7 !important}
+#home-who-section::before{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(180deg,rgba(11,14,17,0.72) 0%,rgba(11,14,17,0.6) 45%,rgba(11,14,17,0.78) 100%)}
+#page-home .img-section .who-for-bg img,#page-about .img-section .who-for-bg img{opacity:0.7 !important}
+#page-home .img-section .who-for-bg::after,#page-about .img-section .who-for-bg::after{content:'';position:absolute;inset:0;z-index:1;pointer-events:none;background:linear-gradient(180deg,rgba(11,14,17,0.68) 0%,rgba(11,14,17,0.72) 100%)}
+.img-section :is(h1,h2,h3,h4,p,li,span,a),.img-section .sec-title{text-shadow:0 2px 14px rgba(0,0,0,0.85)}
+body.light #page-home .img-section :is(h1,h2,h3,h4,p,li,span,a,div),
+body.light #page-about .img-section :is(h1,h2,h3,h4,p,li,span,a,div){color:#ffffff !important}
+/* (badge accent rules below are more specific and keep their colors) */
+
+
+/* ===== next style block ===== */
+
+
+/* WHO WE ARE cards: exact dark-mode text colors in light mode (incl. re-serialized "color: #x" forms) */
+body.light #page-home .img-section [style*="color:#E5E7EB" i],body.light #page-home .img-section [style*="color: #E5E7EB" i],
+body.light #page-about .img-section [style*="color:#E5E7EB" i]{color:#E5E7EB !important}
+body.light #page-home .img-section [style*="color:#D4DCE9" i],body.light #page-home .img-section [style*="color: #D4DCE9" i],
+body.light #page-about .img-section [style*="color:#D4DCE9" i]{color:#D4DCE9 !important}
+body.light #page-home .img-section [style*="color:#94A3B8" i],body.light #page-home .img-section [style*="color: #94A3B8" i],
+body.light #page-about .img-section [style*="color:#94A3B8" i]{color:#94A3B8 !important}
+body.light #page-home .img-section [style*="color:#C4C6D0" i],body.light #page-about .img-section [style*="color:#C4C6D0" i]{color:#C4C6D0 !important}
+body.light #page-home .img-section [style*="color:#9ca3af" i],body.light #page-about .img-section [style*="color:#9ca3af" i]{color:#9ca3af !important}
+body.light #page-home .img-section [style*="color: #678EAC" i],body.light #page-about .img-section [style*="color: #678EAC" i]{color:#678EAC !important}
+/* Carousel arrows: white in both modes */
+#home-who-section .eco-arrows button{color:#ffffff !important;border-color:rgba(255,255,255,0.45) !important}
+/* Nav underline: centered to the text */
+.nav-links li a::after{left:50% !important;right:auto !important;width:calc(100% - 2.2rem);transform:translateX(-50%) scaleX(0) !important}
+.nav-links li a:hover::after,.nav-links li a.active::after{transform:translateX(-50%) scaleX(1) !important}
+/* Card hover: cover re-serialized inline styles too */
+[style*="rgba(148, 163, 184, 0.35)"][style*="border-radius"]:not(button){transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s !important}
+[style*="rgba(148, 163, 184, 0.35)"][style*="border-radius"]:not(button):hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12) !important}
+/* All titles in Space Grotesk (matches SPACE VENTURES INSTITUTE) */
+h1,h2,h3,h4,h5,.h1,.h2,.h3,.h4,.sec-title{font-family:'Space Grotesk',sans-serif !important}
+[style*="font-size:0.95rem;font-weight:700"],[style*="font-size: 0.95rem; font-weight: 700"],
+[style*="font-size:0.75rem;font-weight:700"],[style*="font-size: 0.75rem; font-weight: 700"],
+[style*="font-size:0.85rem;font-weight:600"] ,.loop-card .h4,.doers-card .h4{font-family:'Space Grotesk',sans-serif !important}
+
+
+/* ===== next style block ===== */
+
+
+body.light #page-contact > div:first-child > .container{background-color:#E3ECF5 !important}
+body.light #page-contact div[style*="background:#111318"]{background:#FAFAFA !important}
+body.light #page-contact > div:first-child{background:#E3ECF5 !important;border-bottom-color:#d5dfeb !important}
+
+body.light #page-contact{background:#ffffff !important}
+body.light #page-contact div[style*="background:#0F0F10"],
+body.light #page-contact div[style*="background:#121417"],
+body.light #page-contact div[style*="background:#1D2024"],
+body.light #page-contact div[style*="background:#111827"],
+body.light #page-contact div[style*="background:rgba(255,255,255,0.04)"],
+body.light #page-contact form,
+body.light #page-contact input,
+body.light #page-contact textarea,
+body.light #page-contact select{background:#ffffff !important}
+body.light #page-contact:not(:has(footer)) *{}
+body.light #page-contact :is(h1,h2,h3,h4,h5,p,li,span,div,label,a,input,textarea,select){color:#0B0E11 !important}
+body.light #page-contact [style*="color:#ffffff" i],
+body.light #page-contact [style*="color:#fff" i],
+body.light #page-contact [style*="color:#F8FAFC" i],
+body.light #page-contact [style*="color:#E5E7EB" i],
+body.light #page-contact [style*="color:#EAF1FF" i]{color:#0B0E11 !important}
+body.light #page-contact input::placeholder,body.light #page-contact textarea::placeholder{color:#6b7280 !important}
+body.light #page-contact button[style*="#2962FF"]{color:#ffffff !important}
+body.light #page-contact footer,body.light #page-contact footer *{}
+
+body.light #roles-more{color:#0B0E11 !important;border-color:rgba(11,14,17,0.35) !important}
+/* Who This Is For: brighter list text (both modes; sits over imagery) */
+.this-for-list li span{color:#FFFFFF !important;text-shadow:0 1px 12px rgba(0,0,0,0.7)}
+body.light .this-for-list li span{color:#FFFFFF !important;text-shadow:0 1px 12px rgba(0,0,0,0.7)}
+/* Who We Are cards: white body copy in light mode */
+body.light #home-who-section [style*="color:#D4DCE9" i],body.light #home-who-section [style*="color: #D4DCE9" i],
+body.light #home-who-section [style*="color:#94A3B8" i],body.light #home-who-section [style*="color: #94A3B8" i],
+body.light #home-who-section [style*="color:#9ca3af" i],body.light #home-who-section p,body.light #home-who-section li{color:#FFFFFF !important}
+/* Who This Is For: no hairlines between the four items */
+.this-for-list li,#home-whofor-section li,#home-whofor-section .wyg-card,
+#home-whofor-section [style*="border-top"],#home-whofor-section [style*="border-bottom"]{border-top:none !important;border-bottom:none !important;border-left:none !important;border-right:none !important}
+.this-for-list,#home-whofor-section ul{display:flex;flex-direction:column;gap:2.2rem;align-items:center;max-width:820px;margin:0 auto;padding:0;list-style:none}
+.this-for-list li{display:block !important;text-align:center !important;padding:0 !important;margin:0 !important;background:transparent !important}
+.this-for-list li > *{text-align:center !important;justify-content:center !important}
+.this-for-list li span,.this-for-list li p{display:block;text-align:center !important}
+
+
+/* ===== next style block ===== */
+
+
+/* All carousel < > symbols white in light mode; projects arrows get a brand chip so they stay visible on white */
+body.light button[aria-label="Scroll left"],body.light button[aria-label="Scroll right"]{color:#ffffff !important}
+/* Force the chevron strokes white directly (bypasses currentColor flips) */
+#home-who-section .eco-arrows button svg,#home-who-section .eco-arrows button polyline,
+body.light button[aria-label="Scroll left"] svg,body.light button[aria-label="Scroll right"] svg,
+body.light button[aria-label="Scroll left"] polyline,body.light button[aria-label="Scroll right"] polyline{stroke:#ffffff !important}
+body.light #home-projects-wrap button[aria-label="Scroll left"],body.light #home-projects-wrap button[aria-label="Scroll right"]{background:transparent !important;border-color:rgba(148,163,184,0.35) !important;color:rgba(148,163,184,0.9) !important}
+body.light #home-projects-wrap button[aria-label="Scroll left"] svg,body.light #home-projects-wrap button[aria-label="Scroll right"] svg,
+body.light #home-projects-wrap button[aria-label="Scroll left"] polyline,body.light #home-projects-wrap button[aria-label="Scroll right"] polyline{stroke:rgba(148,163,184,0.9) !important}
+/* Projects cards: identical hover to Mission Core Activities */
+.pcard{transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s !important}
+.pcard:hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12) !important}
+#home-projects-cards{padding:16px 14px 44px !important;margin:0 -14px !important}
+/* Every card shares the How It Works hover (lift + border + glow) */
+.card,.mission-card,.wyg-card,.proj-card,.ecosystem-card,.doers-card,.exec-card,.compass-card,.in-motion-card,.deploy-card,.flo-card,.meet-fn-card,.bl-card,.eco-card-item,
+[style*="border:1px solid rgba(148,163,184,0.18)"]{transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s !important}
+.card:hover,.mission-card:hover,.wyg-card:hover,.proj-card:hover,.ecosystem-card:hover,.doers-card:hover,.exec-card:hover,.compass-card:hover,.in-motion-card:hover,.deploy-card:hover,.flo-card:hover,.meet-fn-card:hover,.bl-card:hover,.eco-card-item:hover,
+[style*="border:1px solid rgba(148,163,184,0.18)"]:hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12) !important}
+/* All bold-uppercase titles in Space Grotesk */
+[style*="font-weight:700"][style*="text-transform:uppercase"],
+[style*="font-weight: 700"][style*="text-transform: uppercase"]{font-family:'Space Grotesk',sans-serif !important}
+
+
+/* ===== next style block ===== */
+
+
+/* New FloLabs SVG logo: show its own brand blue in both modes */
+.nav-logo .logo-anim-wrap img,
+footer .footer-brand img,
+body.light .nav-logo .logo-anim-wrap img,
+body.light .footer-brand img,
+body.light footer .footer-brand img{filter:none !important}
+
+
+/* ===== next style block ===== */
+
+
+.nav-logo .logo-anim-wrap{width:44px !important;height:44px !important}
+.nav-logo .logo-anim-wrap img{width:38px !important;height:38px !important}
+footer .footer-brand img{width:44px !important;height:44px !important}
+
+
+/* ===== next style block ===== */
+
+.loop-num{color:#2962FF !important}
+
+/* ===== next style block ===== */
+
+
+.role-card,.role-why{transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s}
+.role-card:hover,.role-why:hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(103,142,172,0.12)}
+
+
+/* ===== next style block ===== */
+
+
+html body .this-for-list li span,html body.light .this-for-list li span,
+html body #page-home .img-section .this-for-list li span,
+html body.light #page-home .img-section .this-for-list li span{color:#FFFFFF !important;text-shadow:0 1px 12px rgba(0,0,0,0.7) !important}
+/* Who This Is For: each item in its own translucent card, tighter rhythm */
+html body .this-for-list,html body #home-whofor-section ul{gap:0.85rem !important;max-width:760px !important}
+html body .this-for-list li{background:rgba(11,14,17,0.55) !important;backdrop-filter:blur(8px);-webkit-backdrop-filter:blur(8px);border:1px solid rgba(148,163,184,0.28) !important;border-radius:10px !important;padding:1rem 1.4rem !important;transition:transform .3s cubic-bezier(.4,0,.2,1),border-color .3s,box-shadow .3s}
+html body .this-for-list li:hover{transform:translateY(-4px);border-color:rgba(103,142,172,0.5) !important;box-shadow:0 12px 32px rgba(0,0,0,0.35)}
+html body .this-for-list li span{text-shadow:none !important;line-height:1.5 !important}
+html body.light #home-who-section [style*="color:#D4DCE9" i],
+html body.light #home-who-section [style*="color: #D4DCE9" i],
+html body.light #home-who-section [style*="color:#94A3B8" i],
+html body.light #home-who-section [style*="color: #94A3B8" i],
+html body.light #home-who-section [style*="color:#9ca3af" i],
+html body.light #page-home .img-section#home-who-section [style*="color:#D4DCE9" i],
+html body.light #page-home .img-section#home-who-section [style*="color:#94A3B8" i],
+html body.light #home-who-section p,html body.light #home-who-section li{color:#FFFFFF !important}
