@@ -55,7 +55,8 @@ export function SiteEffects() {
       }
       const apply = target.closest<HTMLElement>("[data-apply]");
       if (apply) {
-        window.dispatchEvent(new CustomEvent("svi-apply", { detail: apply.getAttribute("data-apply") || "" }));
+        event.preventDefault();
+        router.push("/internships");
         return;
       }
       const scroller = target.closest<HTMLElement>("[data-scroll-target]");
