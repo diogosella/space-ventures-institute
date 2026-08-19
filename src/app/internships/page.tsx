@@ -11,13 +11,11 @@ export const revalidate = 60;
 
 export const metadata: Metadata = {
   title: "Internships",
-  description:
-    "Apply to your passion. Join FloLabs Innovations Group and Space Ventures Institute to architect the future of human-machine symbiosis.",
+  description: "Explore internship positions with Space Ventures Institute.",
   alternates: { canonical: "/internships" },
   openGraph: {
     title: `Internships | ${site.name}`,
-    description:
-      "Apply to your passion. Join FloLabs Innovations Group and Space Ventures Institute to architect the future of human-machine symbiosis.",
+    description: "Explore internship positions with Space Ventures Institute.",
     url: "/internships",
   },
 };
@@ -51,20 +49,6 @@ export default async function InternshipsPage() {
               <br />
               <span style={{ color: "#2962FF" }}>Positions</span>
             </h1>
-            <p
-              style={{
-                fontFamily: "'Inter',sans-serif",
-                fontSize: "0.94rem",
-                fontWeight: 400,
-                color: "#D4DCE9",
-                maxWidth: 480,
-                lineHeight: 1.65,
-                marginBottom: "2rem",
-              }}
-            >
-              Apply to your passion. Join the FloLabs Innovations Group to architect the future of
-              human-machine symbiosis.
-            </p>
           </div>
         </div>
 
