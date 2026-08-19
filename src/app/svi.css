@@ -1949,11 +1949,34 @@ body.light p, body.light li { color:#0f172a !important; }
 body.light [style*="background:#0F0F10" i] button,
 body.light [style*="rgb(15, 15, 16)" i] button,
 body.light button[style*="background:#2962FF" i],
-body.light button[style*="#2962FF" i],
+body.light button[style*="background: #2962FF" i],
+body.light button[style*="background-color:#2962FF" i],
+body.light button[style*="background-color: #2962FF" i],
+body.light button[style*="background:rgb(41, 98, 255)" i],
+body.light button[style*="background: rgb(41, 98, 255)" i],
+body.light button[style*="background-color:rgb(41, 98, 255)" i],
+body.light button[style*="background-color: rgb(41, 98, 255)" i],
 body.light [style*="background:#2962FF" i],
-body.light [style*="#2962FF" i] { color:#ffffff !important; }
+body.light [style*="background: #2962FF" i],
+body.light [style*="background-color:#2962FF" i],
+body.light [style*="background-color: #2962FF" i],
+body.light [style*="background:rgb(41, 98, 255)" i],
+body.light [style*="background: rgb(41, 98, 255)" i],
+body.light [style*="background-color:rgb(41, 98, 255)" i],
+body.light [style*="background-color: rgb(41, 98, 255)" i] { color:#ffffff !important; }
 body.light [style*="background:#2962FF" i] *,
-body.light [style*="#2962FF" i] * { color:#ffffff !important; }
+body.light [style*="background: #2962FF" i] *,
+body.light [style*="background-color:#2962FF" i] *,
+body.light [style*="background-color: #2962FF" i] *,
+body.light [style*="background:rgb(41, 98, 255)" i] *,
+body.light [style*="background: rgb(41, 98, 255)" i] *,
+body.light [style*="background-color:rgb(41, 98, 255)" i] *,
+body.light [style*="background-color: rgb(41, 98, 255)" i] * { color:#ffffff !important; }
+
+body.light #page-internships h1 [style*="color:#2962FF" i],
+body.light #page-internships h1 [style*="color: #2962FF" i],
+body.light #page-internships h1 [style*="color:rgb(41, 98, 255)" i],
+body.light #page-internships h1 [style*="color: rgb(41, 98, 255)" i] { color:#1d4ed8 !important; }
 
 
 /* ===== next style block ===== */
