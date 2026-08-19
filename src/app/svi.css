@@ -2248,3 +2248,9 @@ html body.light #home-who-section [style*="color:#9ca3af" i],
 html body.light #page-home .img-section#home-who-section [style*="color:#D4DCE9" i],
 html body.light #page-home .img-section#home-who-section [style*="color:#94A3B8" i],
 html body.light #home-who-section p,html body.light #home-who-section li{color:#FFFFFF !important}
+
+/* Internships hero: keep the fixed light header from visually covering the page title. */
+body.light #page-internships .internships-hero{background:#E3ECF5 !important;border-bottom-color:#d5dfeb !important}
+body.light #page-internships .internships-hero-inner{padding-top:clamp(6rem,10vw,7rem) !important}
+body.light #page-internships .internships-hero-title{color:#0f172a !important;position:relative;z-index:1}
+body.light #page-internships .internships-hero-accent{color:#1d4ed8 !important}

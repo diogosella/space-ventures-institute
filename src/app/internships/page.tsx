@@ -27,13 +27,18 @@ export default async function InternshipsPage() {
     <PageShell pageId="page-internships">
       <div id="internships-top" style={{ background: "#0F0F10" }}>
         <div
+          className="internships-hero"
           style={{
             background: "linear-gradient(135deg,#0F0F10 55%,rgba(59,130,246,0.08) 100%)",
             borderBottom: "1px solid #1f2937",
           }}
         >
-          <div className="container" style={{ paddingTop: "5rem", paddingBottom: "4rem" }}>
+          <div
+            className="container internships-hero-inner"
+            style={{ paddingTop: "5rem", paddingBottom: "4rem" }}
+          >
             <h1
+              className="internships-hero-title"
               style={{
                 fontFamily: "'Space Grotesk',sans-serif",
                 fontSize: 64,
@@ -47,7 +52,9 @@ export default async function InternshipsPage() {
             >
               Internship
               <br />
-              <span style={{ color: "#2962FF" }}>Positions</span>
+              <span className="internships-hero-accent" style={{ color: "#2962FF" }}>
+                Positions
+              </span>
             </h1>
           </div>
         </div>
