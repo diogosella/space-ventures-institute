@@ -1,4 +1,3 @@
-import { internshipPositions } from "@/lib/site-data";
 import {
   decodeHtmlEntities,
   sanitizeInternshipDescription,
@@ -11,8 +10,7 @@ import {
  * - STRAPI_INTERNSHIP_COLLECTION — default "internships"
  * - STRAPI_PAGE_SIZE — default 100, capped at 250
  *
- * Without env vars, or if Strapi is empty/unreachable, falls back to
- * `internshipPositions` in lib/site-data.ts.
+ * Without env vars, or if Strapi is empty/unreachable, returns no internships.
  */
 export type Internship = {
   id: string | number;
@@ -231,18 +229,12 @@ async function fetchStrapiOneBySlug(slug: string): Promise<Internship | null> {
   }
 }
 
-function localFallback(): Internship[] {
-  return internshipPositions.map((item) => finalizeInternship(item));
-}
-
-/** All listings: Strapi when configured and non-empty; otherwise local site-data. */
+/** All listings from Strapi. Empty means Strapi is unconfigured, unreachable, or has no valid entries. */
 export async function getAllInternships(): Promise<Internship[]> {
-  const remote = await fetchStrapiList();
-  if (remote.length > 0) return remote;
-  return localFallback();
+  return fetchStrapiList();
 }
 
-/** Single role by slug: prefer the cached list, then a direct slug fetch, then local fallback. */
+/** Single role by slug from Strapi only. */
 export async function getInternship(slug: string): Promise<Internship | null> {
   const fromList = (await getAllInternships()).find((item) => item.slug === slug);
   if (fromList) return fromList;
@@ -252,5 +244,5 @@ export async function getInternship(slug: string): Promise<Internship | null> {
     if (one) return one;
   }
 
-  return localFallback().find((item) => item.slug === slug) ?? null;
+  return null;
 }

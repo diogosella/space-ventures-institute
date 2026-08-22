@@ -1,4 +1,5 @@
 import type { Metadata } from "next";
+import { notFound } from "next/navigation";
 import { HtmlIsland } from "@/components/HtmlIsland";
 import { InternshipsDirectory } from "@/components/InternshipsDirectory";
 import { PageShell } from "@/components/PageShell";
@@ -22,6 +23,7 @@ export const metadata: Metadata = {
 
 export default async function InternshipsPage() {
   const internships = sortInternships(await getAllInternships());
+  if (internships.length === 0) notFound();
 
   return (
     <PageShell pageId="page-internships">

@@ -1,5 +1,3 @@
-import roles from "@/data/roles.json";
-
 type LocalRole = {
   slug: string;
   mode?: string;
@@ -35,13 +33,13 @@ function toDescription(role: LocalRole): string | undefined {
   return text || undefined;
 }
 
-/** Local fallback when Strapi is unconfigured, unreachable, or empty. */
-export const internshipPositions = (roles as LocalRole[]).map((role, index) => ({
-  id: index + 1,
-  slug: role.slug,
-  title: role.title,
-  status: "Open",
-  location: role.mode,
-  summary: role.blurb,
-  description: toDescription(role),
-}));
+/**
+ * Legacy export kept for older imports only.
+ * Internships are Strapi-only; do not seed this with local fallback roles.
+ */
+export const internshipPositions: (LocalRole & {
+  id: number;
+  status: string;
+  summary?: string;
+  description?: string;
+})[] = [];

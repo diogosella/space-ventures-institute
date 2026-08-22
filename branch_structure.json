@@ -1,0 +1,15 @@
+{
+  "default_branch": "strapi-integration",
+  "branches": [
+    "main",
+    "strapi-integration"
+  ],
+  "parent": {
+    "main": "strapi-integration",
+    "strapi-integration": null
+  },
+  "order": [
+    "strapi-integration",
+    "main"
+  ]
+}
